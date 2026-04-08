@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "world-cup-predictor"
+version = "0.1.0"
+description = "Predictor for the FIFA World Cup 2026 using previous match data and ELO ratings."
+readme = "README.md"
+authors = [{ name = "Marwa Ali", email = "marwa_ali42@outlook.com" }]
+dependencies = [
+    "pandas"
+]

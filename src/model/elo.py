@@ -1,7 +1,7 @@
-from math import sqrt
+from math import sqrt, log
 
 # Home team advantage in ELO points
-HOME_ADVANTAGE = 100
+HOME_ADVANTAGE = 50
 
 # Calculates expected score of a match based on ELO ratings
 def expected_score(rating_a, rating_b):
@@ -10,35 +10,33 @@ def expected_score(rating_a, rating_b):
 # Determines K-factor based on tournament type
 def get_k(tournament):
     if "FIFA World Cup qualification" in tournament:
-        return 30
-    elif "FIFA World Cup" in tournament:
-        return 60
-    elif "Friendly" in tournament:
         return 25
-    elif "UEFA Euro qualification" in tournament:
+    elif "FIFA World Cup" in tournament:
         return 40
-    elif "African Cup of Nations" in tournament:
+    elif "Friendly" in tournament:
         return 20
+    elif "UEFA Euro" in tournament:
+        return 30
+    elif "African Cup of Nations" in tournament:
+        return 30
     else:
-        return 10
+        return 25
 
 # Updates ELO ratings based on match result
 def update_elo_ratings(rating_home, rating_away, home_score, away_score, k=32, advantage=0):
     goal_diff = abs(home_score - away_score)
-    multiplier = 1 if goal_diff == 0 else sqrt(goal_diff)
+    multiplier = 1 if goal_diff <= 1 else sqrt(goal_diff)
     k *= multiplier
 
     expected_home = expected_score(rating_home + advantage, rating_away)
-    expected_away = expected_score(rating_away, rating_home + advantage)
+    expected_away = 1 - expected_home
 
     new_rating_home = rating_home + k * (home_score - expected_home)
     new_rating_away = rating_away + k * (away_score - expected_away)
-
     return new_rating_home, new_rating_away
 
 # Main function to run ELO rating calculations
 def run_elo(df):
-    # Sort matches by date to ensure chronological processing    
     # Initialize ratings for all teams
     teams = set(df['home_team']).union(set(df['away_team']))
     ratings = {team: 1500 for team in teams}
@@ -48,6 +46,10 @@ def run_elo(df):
         away_team = row['away_team']
         home_score = row['home_score']
         away_score = row['away_score']
+        
+        
+        year = int(row['date'][:4])  # Extract year from date
+        weight = 1 + (year - 2016)/10 # More recent matches have more weight
 
         # Set score for home team: 1 for win, 0 for loss, 0.5 for draw
         if home_score > away_score:
@@ -62,7 +64,7 @@ def run_elo(df):
  
         # Update ELO ratings based on match result
         ratings[home_team], ratings[away_team] = update_elo_ratings(
-            ratings[home_team], ratings[away_team], home_score, away_score, get_k(row['tournament']), advantage)
+            ratings[home_team], ratings[away_team], score_home, 1 - score_home, weight * get_k(row['tournament']), advantage)
 
     return ratings
 
