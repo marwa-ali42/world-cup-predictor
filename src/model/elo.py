@@ -14,8 +14,7 @@ def update_elo_ratings(rating_home, rating_away, score_home, k=32):
 
 # Main function to run ELO rating calculations
 def run_elo(df):
-    # Sort matches by date to ensure chronological processing
-    df = df.sort_values('date')
+    # Sort matches by date to ensure chronological processing    
     # Initialize ratings for all teams
     teams = set(df['home_team']).union(set(df['away_team']))
     ratings = {team: 1500 for team in teams}
@@ -39,3 +38,15 @@ def run_elo(df):
             ratings[home_team], ratings[away_team], score_home)
 
     return ratings
+
+def predict_match(team_a, team_b, ratings):
+    rating_a = ratings.get(team_a, 1500)
+    rating_b = ratings.get(team_b, 1500)
+    expected_a = expected_score(rating_a, rating_b)
+
+    if abs(expected_a - 0.5) < 0.05:  # If the match is expected to be close
+        return "Draw"
+    elif expected_a > 0.5:
+        return team_a
+    else:
+        return team_b
