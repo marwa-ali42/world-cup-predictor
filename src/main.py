@@ -4,7 +4,7 @@ from evaluation.evaluate_elo import evaluate_elo_predictions
 
 df = pd.read_csv('data/processed/clean_results.csv')
 
-# Sort matches by date to ensure chronological processing    
+# Sort matches by date to ensure chronological processing
 df = df.sort_values("date")
 # Split data into training and testing sets
 split_idx = int(len(df) * 0.8)

@@ -1,14 +1,38 @@
+from math import sqrt
+
+# Home team advantage in ELO points
+HOME_ADVANTAGE = 100
+
 # Calculates expected score of a match based on ELO ratings
 def expected_score(rating_a, rating_b):
     return 1 / (1 + 10 ** ((rating_b - rating_a) / 400))
 
-# Updates ELO ratings based on match result
-def update_elo_ratings(rating_home, rating_away, score_home, k=32):
-    expected_home = expected_score(rating_home, rating_away)
-    expected_away = expected_score(rating_away, rating_home)
+# Determines K-factor based on tournament type
+def get_k(tournament):
+    if "FIFA World Cup qualification" in tournament:
+        return 30
+    elif "FIFA World Cup" in tournament:
+        return 60
+    elif "Friendly" in tournament:
+        return 25
+    elif "UEFA Euro qualification" in tournament:
+        return 40
+    elif "African Cup of Nations" in tournament:
+        return 20
+    else:
+        return 10
 
-    new_rating_home = rating_home + k * (score_home - expected_home)
-    new_rating_away = rating_away + k * ((1 - score_home) - expected_away)
+# Updates ELO ratings based on match result
+def update_elo_ratings(rating_home, rating_away, home_score, away_score, k=32, advantage=0):
+    goal_diff = abs(home_score - away_score)
+    multiplier = 1 if goal_diff == 0 else sqrt(goal_diff)
+    k *= multiplier
+
+    expected_home = expected_score(rating_home + advantage, rating_away)
+    expected_away = expected_score(rating_away, rating_home + advantage)
+
+    new_rating_home = rating_home + k * (home_score - expected_home)
+    new_rating_away = rating_away + k * (away_score - expected_away)
 
     return new_rating_home, new_rating_away
 
@@ -33,9 +57,12 @@ def run_elo(df):
         else:
             score_home = 0.5
 
+        # Calculate home team advantage
+        advantage = 0 if row['neutral'] else HOME_ADVANTAGE
+ 
         # Update ELO ratings based on match result
         ratings[home_team], ratings[away_team] = update_elo_ratings(
-            ratings[home_team], ratings[away_team], score_home)
+            ratings[home_team], ratings[away_team], home_score, away_score, get_k(row['tournament']), advantage)
 
     return ratings
 
