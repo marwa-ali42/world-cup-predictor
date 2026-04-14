@@ -1,4 +1,4 @@
-from model.elo import predict_match
+from src.model.elo import predict_match
 
 def evaluate_elo_predictions(df, ratings):
     correct, total = 0, 0

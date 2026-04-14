@@ -1,7 +1,6 @@
-import random
 import pandas as pd
-from simulate_random import simulate_match
-from model.elo import run_elo
+from src.simulation.simulate_random import simulate_match
+from src.model.elo import run_elo
 from collections import Counter
 
 df = pd.read_csv('data/processed/clean_results.csv')

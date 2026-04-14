@@ -1,6 +1,6 @@
 import pandas as pd
-from model.elo import run_elo
-from evaluation.evaluate_elo import evaluate_elo_predictions
+from src.model.elo import run_elo
+from src.evaluation.evaluate_elo import evaluate_elo_predictions
 
 df = pd.read_csv('data/processed/clean_results.csv')
 

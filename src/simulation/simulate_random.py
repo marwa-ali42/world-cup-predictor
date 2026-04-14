@@ -3,7 +3,7 @@
 # This is used to test the model's predictive power in a controlled environment.
 import random
 import pandas as pd
-from model.elo import expected_score
+from src.model.elo import expected_score
 
 # Simulate match outcome based on expected score
 # Factors in real world randomness and upsets

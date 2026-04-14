@@ -1,4 +1,4 @@
-from math import sqrt, log
+from math import sqrt
 
 # Home team advantage in ELO points
 HOME_ADVANTAGE = 50
