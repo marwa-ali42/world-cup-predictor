@@ -19,6 +19,8 @@ Instead of predicting a single outcome, the tournament is simulated many times a
   - match importance (k-factor)
 
 ## Simulation
+- Elo ratings are trained and evaluated on a training-test data split
+- For tournament simulation, ratings are recomputed using the full dataset
 - Match outcomes are sampled using Elo-derived probabilities
 - A knockout tournament is simulated round-by-round
 - The full tournament is ran repeatedly (Monte Carlo simulation)
@@ -27,25 +29,25 @@ Instead of predicting a single outcome, the tournament is simulated many times a
 Example output:
 
 ```text
-Spain: 20.41%
-Morocco: 13.200000000000001%
-Argentina: 13.15%
-France: 10.36%
-Senegal: 6.72%
-Japan: 6.54%
-Portugal: 4.03%
-Nigeria: 3.61%
-England: 3.55%
-Algeria: 3.4099999999999997%
-Germany: 3.0700000000000003%
+Spain: 21.34%
+Argentina: 12.92%
+Morocco: 12.59%
+France: 10.44%
+Senegal: 6.79%
+Japan: 6.35%
+Portugal: 3.86%
+England: 3.86%
+Algeria: 3.66%
+Nigeria: 3.24%
+Germany: 3.11%
 Ecuador: 2.65%
-Netherlands: 2.64%
-Brazil: 2.63%
-Australia: 2.34%
-Turkey: 1.69%
+Netherlands: 2.61%
+Brazil: 2.24%
+Australia: 2.24%
+Turkey: 2.10%
 ```
 ## To run
 
 ```bash
-python -m src.simulation.tournament
+python -m src.main
 ```
