@@ -26,25 +26,26 @@ Instead of predicting a single outcome, the tournament is simulated many times a
 - The full tournament is ran repeatedly (Monte Carlo simulation)
 - Results are aggregated into win probabilities
 
-Example output:
+
+Final 2026 World Cup ranking:
 
 ```text
-Spain: 21.34%
-Argentina: 12.92%
-Morocco: 12.59%
-France: 10.44%
-Senegal: 6.79%
-Japan: 6.35%
-Portugal: 3.86%
-England: 3.86%
-Algeria: 3.66%
-Nigeria: 3.24%
-Germany: 3.11%
-Ecuador: 2.65%
-Netherlands: 2.61%
-Brazil: 2.24%
-Australia: 2.24%
-Turkey: 2.10%
+Spain: 18.36%
+Argentina: 13.82%
+Morocco: 12.14%
+France: 7.10%
+Japan: 6.40%
+Portugal: 5.36%
+Algeria: 5.27%
+England: 4.39%
+Brazil: 4.18%
+Mexico: 3.81%
+Senegal: 3.75%
+Ecuador: 3.52%
+Germany: 3.49%
+Nigeria: 3.01%
+Colombia: 2.81%
+Turkey: 2.59%
 ```
 ## To run
 

@@ -45,7 +45,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2016-03-24,FIFA World Cup qualification,Bahrain,Yemen,3.0,0.0,False
 2016-03-24,FIFA World Cup qualification,Bolivia,Colombia,2.0,3.0,False
 2016-03-24,FIFA World Cup qualification,Chile,Argentina,1.0,2.0,False
-2016-03-24,FIFA World Cup qualification,China PR,Maldives,4.0,0.0,False
+2016-03-24,FIFA World Cup qualification,China,Maldives,4.0,0.0,False
 2016-03-24,African Cup of Nations qualification,Comoros,Botswana,1.0,0.0,False
 2016-03-24,Friendly,Czech Republic,Scotland,0.0,1.0,False
 2016-03-24,Friendly,Denmark,Iceland,2.0,1.0,False
@@ -138,7 +138,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2016-03-29,FIFA World Cup qualification,Argentina,Bolivia,2.0,0.0,False
 2016-03-29,FIFA World Cup qualification,Australia,Jordan,5.0,1.0,False
 2016-03-29,Friendly,Austria,Turkey,1.0,2.0,False
-2016-03-29,FIFA World Cup qualification,China PR,Qatar,2.0,0.0,False
+2016-03-29,FIFA World Cup qualification,China,Qatar,2.0,0.0,False
 2016-03-29,FIFA World Cup qualification,Colombia,Ecuador,3.0,1.0,False
 2016-03-29,FIFA World Cup qualification,Costa Rica,Jamaica,3.0,0.0,False
 2016-03-29,CFU Caribbean Cup qualification,Dominica,Martinique,1.0,4.0,False
@@ -302,7 +302,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2016-06-03,Friendly,Azerbaijan,Canada,1.0,1.0,True
 2016-06-03,Kirin Cup,Bosnia and Herzegovina,Denmark,2.0,2.0,True
 2016-06-03,Friendly,Myanmar,Singapore,0.0,1.0,False
-2016-06-03,Friendly,China PR,Trinidad and Tobago,4.0,2.0,False
+2016-06-03,Friendly,China,Trinidad and Tobago,4.0,2.0,False
 2016-06-03,African Cup of Nations qualification,Djibouti,Tunisia,0.0,3.0,False
 2016-06-03,Friendly,Faroe Islands,Kosovo,0.0,2.0,True
 2016-06-03,Kirin Cup,Japan,Bulgaria,7.0,2.0,False
@@ -382,7 +382,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2016-06-07,Kirin Cup,Bulgaria,Denmark,0.0,4.0,True
 2016-06-07,AFC Asian Cup qualification,Cambodia,Taiwan,2.0,0.0,False
 2016-06-07,Friendly,Canada,Uzbekistan,2.0,1.0,True
-2016-06-07,Friendly,China PR,Kazakhstan,0.0,1.0,False
+2016-06-07,Friendly,China,Kazakhstan,0.0,1.0,False
 2016-06-07,Copa América,Colombia,Paraguay,2.0,1.0,True
 2016-06-07,CFU Caribbean Cup qualification,Curaçao,United States Virgin Islands,7.0,0.0,False
 2016-06-07,CFU Caribbean Cup qualification,Dominican Republic,French Guiana,2.0,1.0,False
@@ -544,7 +544,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2016-09-01,FIFA World Cup qualification,Iran,Qatar,2.0,0.0,False
 2016-09-01,Friendly,Italy,France,1.0,3.0,False
 2016-09-01,FIFA World Cup qualification,Japan,United Arab Emirates,1.0,2.0,False
-2016-09-01,FIFA World Cup qualification,South Korea,China PR,3.0,2.0,False
+2016-09-01,FIFA World Cup qualification,South Korea,China,3.0,2.0,False
 2016-09-01,Friendly,Maldives,Bangladesh,5.0,0.0,False
 2016-09-01,Friendly,Netherlands,Greece,1.0,2.0,False
 2016-09-01,FIFA World Cup qualification,Paraguay,Chile,2.0,1.0,False
@@ -613,7 +613,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2016-09-06,Friendly,Cameroon,Gabon,2.0,1.0,False
 2016-09-06,FIFA World Cup qualification,Canada,El Salvador,3.0,1.0,False
 2016-09-06,FIFA World Cup qualification,Chile,Bolivia,3.0,0.0,False
-2016-09-06,FIFA World Cup qualification,China PR,Iran,0.0,0.0,False
+2016-09-06,FIFA World Cup qualification,China,Iran,0.0,0.0,False
 2016-09-06,FIFA World Cup qualification,Costa Rica,Panama,3.0,1.0,False
 2016-09-06,FIFA World Cup qualification,Cyprus,Belgium,0.0,3.0,False
 2016-09-06,FIFA World Cup qualification,Faroe Islands,Hungary,0.0,0.0,False
@@ -649,7 +649,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2016-10-06,FIFA World Cup qualification,Austria,Wales,2.0,2.0,False
 2016-10-06,FIFA World Cup qualification,Brazil,Bolivia,5.0,0.0,False
 2016-10-06,Friendly,Cambodia,Hong Kong,0.0,2.0,False
-2016-10-06,FIFA World Cup qualification,China PR,Syria,0.0,1.0,False
+2016-10-06,FIFA World Cup qualification,China,Syria,0.0,1.0,False
 2016-10-06,FIFA World Cup qualification,Ecuador,Chile,3.0,0.0,False
 2016-10-06,FIFA World Cup qualification,Iceland,Finland,3.0,2.0,False
 2016-10-06,FIFA World Cup qualification,Republic of Ireland,Georgia,1.0,0.0,False
@@ -761,7 +761,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2016-10-11,FIFA World Cup qualification,Slovakia,Scotland,3.0,0.0,False
 2016-10-11,FIFA World Cup qualification,Slovenia,England,0.0,0.0,False
 2016-10-11,Friendly,South Africa,Ghana,1.0,1.0,False
-2016-10-11,FIFA World Cup qualification,Uzbekistan,China PR,2.0,0.0,False
+2016-10-11,FIFA World Cup qualification,Uzbekistan,China,2.0,0.0,False
 2016-10-11,FIFA World Cup qualification,Venezuela,Brazil,0.0,2.0,False
 2016-10-15,AFF Championship qualification,Brunei,Timor-Leste,2.0,1.0,True
 2016-10-15,AFF Championship qualification,Cambodia,Laos,2.0,1.0,False
@@ -769,29 +769,29 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2016-10-18,AFF Championship qualification,Timor-Leste,Laos,1.0,2.0,True
 2016-10-21,AFF Championship qualification,Cambodia,Timor-Leste,3.0,2.0,False
 2016-10-21,AFF Championship qualification,Laos,Brunei,4.0,3.0,True
-2016-11-02,AFC Challenge Cup,Brunei,Timor-Leste,4.0,0.0,True
-2016-11-03,AFC Challenge Cup,Macau,Mongolia,2.0,1.0,True
-2016-11-03,AFC Challenge Cup,Sri Lanka,Laos,1.0,2.0,True
+2016-11-02,AFC Solidarity Cup,Brunei,Timor-Leste,4.0,0.0,True
+2016-11-03,AFC Solidarity Cup,Macau,Mongolia,2.0,1.0,True
+2016-11-03,AFC Solidarity Cup,Sri Lanka,Laos,1.0,2.0,True
 2016-11-04,Friendly,Myanmar,Indonesia,0.0,0.0,False
-2016-11-05,AFC Challenge Cup,Timor-Leste,Nepal,0.0,0.0,True
+2016-11-05,AFC Solidarity Cup,Timor-Leste,Nepal,0.0,0.0,True
 2016-11-05,Friendly,Zimbabwe,Zambia,1.0,0.0,False
 2016-11-06,EAFF Championship,Hong Kong,Guam,3.0,2.0,False
 2016-11-06,Friendly,Jordan,Iraq,0.0,0.0,False
 2016-11-06,EAFF Championship,North Korea,Taiwan,2.0,0.0,True
-2016-11-06,AFC Challenge Cup,Laos,Macau,1.0,4.0,True
-2016-11-06,AFC Challenge Cup,Mongolia,Sri Lanka,2.0,0.0,True
+2016-11-06,AFC Solidarity Cup,Laos,Macau,1.0,4.0,True
+2016-11-06,AFC Solidarity Cup,Mongolia,Sri Lanka,2.0,0.0,True
 2016-11-07,FIFA World Cup qualification,Tahiti,Solomon Islands,3.0,0.0,False
-2016-11-08,AFC Challenge Cup,Nepal,Brunei,3.0,0.0,True
+2016-11-08,AFC Solidarity Cup,Nepal,Brunei,3.0,0.0,True
 2016-11-08,Friendly,Uganda,Zambia,0.0,1.0,False
 2016-11-08,Friendly,Vietnam,Indonesia,3.0,2.0,False
 2016-11-09,Friendly,Greece,Belarus,0.0,1.0,False
 2016-11-09,EAFF Championship,Guam,North Korea,0.0,2.0,True
 2016-11-09,CFU Caribbean Cup qualification,Haiti,French Guiana,2.0,5.0,False
 2016-11-09,EAFF Championship,Hong Kong,Taiwan,4.0,2.0,False
-2016-11-09,AFC Challenge Cup,Mongolia,Laos,0.0,3.0,True
+2016-11-09,AFC Solidarity Cup,Mongolia,Laos,0.0,3.0,True
 2016-11-09,Friendly,Netherlands,Belgium,1.0,1.0,False
 2016-11-09,Friendly,Philippines,Kyrgyzstan,1.0,0.0,False
-2016-11-09,AFC Challenge Cup,Sri Lanka,Macau,1.0,1.0,True
+2016-11-09,AFC Solidarity Cup,Sri Lanka,Macau,1.0,1.0,True
 2016-11-09,Friendly,Syria,Singapore,2.0,0.0,True
 2016-11-09,Friendly,Tajikistan,Turkmenistan,3.0,0.0,False
 2016-11-09,Friendly,United Arab Emirates,Bahrain,2.0,0.0,False
@@ -830,10 +830,10 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2016-11-12,EAFF Championship,Hong Kong,North Korea,0.0,1.0,False
 2016-11-12,Friendly,Kenya,Mozambique,1.0,0.0,False
 2016-11-12,FIFA World Cup qualification,Liechtenstein,Italy,0.0,4.0,False
-2016-11-12,AFC Challenge Cup,Macau,Brunei,1.0,1.0,True
+2016-11-12,AFC Solidarity Cup,Macau,Brunei,1.0,1.0,True
 2016-11-12,FIFA World Cup qualification,Mali,Gabon,0.0,0.0,False
 2016-11-12,FIFA World Cup qualification,Morocco,Ivory Coast,0.0,0.0,False
-2016-11-12,AFC Challenge Cup,Nepal,Laos,2.0,2.0,True
+2016-11-12,AFC Solidarity Cup,Nepal,Laos,2.0,2.0,True
 2016-11-12,FIFA World Cup qualification,New Zealand,New Caledonia,2.0,0.0,False
 2016-11-12,FIFA World Cup qualification,Nigeria,Algeria,3.0,1.0,False
 2016-11-12,FIFA World Cup qualification,Spain,North Macedonia,4.0,0.0,False
@@ -858,7 +858,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2016-11-13,Friendly,Tajikistan,Afghanistan,1.0,0.0,False
 2016-11-13,Friendly,Zimbabwe,Tanzania,3.0,0.0,False
 2016-11-14,Friendly,Myanmar,Oman,0.0,3.0,False
-2016-11-14,AFC Challenge Cup,Laos,Brunei,3.0,2.0,True
+2016-11-14,AFC Solidarity Cup,Laos,Brunei,3.0,2.0,True
 2016-11-14,Friendly,Malaysia,Papua New Guinea,2.0,1.0,False
 2016-11-14,Friendly,Poland,Slovenia,1.0,1.0,False
 2016-11-15,FIFA World Cup qualification,Argentina,Colombia,3.0,0.0,False
@@ -866,7 +866,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2016-11-15,Friendly,Bahrain,Kyrgyzstan,0.0,0.0,False
 2016-11-15,FIFA World Cup qualification,Bolivia,Paraguay,1.0,0.0,False
 2016-11-15,FIFA World Cup qualification,Chile,Uruguay,3.0,1.0,False
-2016-11-15,FIFA World Cup qualification,China PR,Qatar,0.0,0.0,False
+2016-11-15,FIFA World Cup qualification,China,Qatar,0.0,0.0,False
 2016-11-15,FIFA World Cup qualification,Costa Rica,United States,4.0,0.0,False
 2016-11-15,Friendly,Czech Republic,Denmark,1.0,1.0,False
 2016-11-15,FIFA World Cup qualification,Ecuador,Venezuela,3.0,0.0,False
@@ -882,7 +882,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2016-11-15,Friendly,Malta,Iceland,0.0,2.0,False
 2016-11-15,Friendly,Morocco,Togo,2.0,1.0,False
 2016-11-15,Friendly,Mozambique,South Africa,1.0,1.0,False
-2016-11-15,AFC Challenge Cup,Nepal,Macau,1.0,0.0,True
+2016-11-15,AFC Solidarity Cup,Nepal,Macau,1.0,0.0,True
 2016-11-15,FIFA World Cup qualification,New Caledonia,New Zealand,0.0,0.0,False
 2016-11-15,Friendly,Northern Ireland,Croatia,0.0,3.0,False
 2016-11-15,FIFA World Cup qualification,Panama,Mexico,0.0,0.0,False
@@ -932,14 +932,14 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2017-01-09,Friendly,Morocco,Finland,0.0,1.0,True
 2017-01-10,Friendly,Algeria,Mauritania,6.0,0.0,False
 2017-01-10,Friendly,Cameroon,Zimbabwe,1.0,1.0,False
-2017-01-10,Friendly,China PR,Iceland,0.0,2.0,False
+2017-01-10,Friendly,China,Iceland,0.0,2.0,False
 2017-01-11,Friendly,Chile,Croatia,1.0,1.0,True
 2017-01-11,Friendly,Congo,Senegal,0.0,2.0,False
 2017-01-11,Friendly,Ivory Coast,Uganda,3.0,0.0,True
 2017-01-13,UNCAF Cup,Honduras,Nicaragua,2.0,1.0,True
 2017-01-14,African Cup of Nations,Burkina Faso,Cameroon,1.0,1.0,True
 2017-01-14,Friendly,Cambodia,Saudi Arabia,2.0,7.0,True
-2017-01-14,Friendly,China PR,Croatia,1.0,1.0,False
+2017-01-14,Friendly,China,Croatia,1.0,1.0,False
 2017-01-14,African Cup of Nations,Gabon,Guinea-Bissau,1.0,1.0,False
 2017-01-15,African Cup of Nations,Algeria,Zimbabwe,2.0,2.0,True
 2017-01-15,UNCAF Cup,Belize,Costa Rica,0.0,3.0,True
@@ -1010,7 +1010,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2017-03-23,Friendly,Afghanistan,Singapore,2.0,1.0,True
 2017-03-23,FIFA World Cup qualification,Argentina,Chile,1.0,0.0,False
 2017-03-23,Friendly,Bahrain,Tajikistan,1.0,1.0,False
-2017-03-23,FIFA World Cup qualification,China PR,South Korea,1.0,0.0,False
+2017-03-23,FIFA World Cup qualification,China,South Korea,1.0,0.0,False
 2017-03-23,FIFA World Cup qualification,Colombia,Bolivia,1.0,0.0,False
 2017-03-23,FIFA World Cup qualification,Iraq,Australia,1.0,1.0,True
 2017-03-23,Friendly,Jordan,Hong Kong,4.0,0.0,False
@@ -1091,7 +1091,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2017-03-28,Friendly,Georgia,Latvia,5.0,0.0,False
 2017-03-28,Friendly,Guyana,Martinique,0.0,0.0,False
 2017-03-28,FIFA World Cup qualification,Honduras,Costa Rica,1.0,1.0,False
-2017-03-28,FIFA World Cup qualification,Iran,China PR,1.0,0.0,False
+2017-03-28,FIFA World Cup qualification,Iran,China,1.0,0.0,False
 2017-03-28,Friendly,Republic of Ireland,Iceland,0.0,1.0,False
 2017-03-28,FIFA World Cup qualification,Japan,Thailand,4.0,0.0,False
 2017-03-28,AFC Asian Cup qualification,Jordan,Cambodia,7.0,0.0,False
@@ -1183,7 +1183,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2017-06-06,CONIFA European Football Cup,Székely Land,Padania,1.0,1.0,True
 2017-06-06,CONIFA European Football Cup,Ellan Vannin,Felvidék,1.0,0.0,True
 2017-06-07,Friendly,Bolivia,Nicaragua,3.0,2.0,False
-2017-06-07,Friendly,China PR,Philippines,8.0,1.0,False
+2017-06-07,Friendly,China,Philippines,8.0,1.0,False
 2017-06-07,FIFA World Cup qualification,Fiji,New Caledonia,2.0,2.0,False
 2017-06-07,Friendly,Finland,Liechtenstein,1.0,1.0,False
 2017-06-07,Friendly,Georgia,Saint Kitts and Nevis,3.0,0.0,False
@@ -1293,7 +1293,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2017-06-13,Friendly,Romania,Chile,3.0,2.0,False
 2017-06-13,Friendly,Singapore,Argentina,0.0,6.0,False
 2017-06-13,Friendly,South Africa,Zambia,1.0,2.0,False
-2017-06-13,FIFA World Cup qualification,Syria,China PR,2.0,2.0,True
+2017-06-13,FIFA World Cup qualification,Syria,China,2.0,2.0,True
 2017-06-13,AFC Asian Cup qualification,Tajikistan,Philippines,3.0,4.0,False
 2017-06-13,FIFA World Cup qualification,Thailand,United Arab Emirates,1.0,1.0,False
 2017-06-13,AFC Asian Cup qualification,Turkmenistan,Bahrain,1.0,2.0,False
@@ -1437,7 +1437,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2017-08-31,FIFA World Cup qualification,Brazil,Ecuador,2.0,0.0,False
 2017-08-31,FIFA World Cup qualification,Bulgaria,Sweden,3.0,2.0,False
 2017-08-31,FIFA World Cup qualification,Chile,Paraguay,0.0,3.0,False
-2017-08-31,FIFA World Cup qualification,China PR,Uzbekistan,1.0,0.0,False
+2017-08-31,FIFA World Cup qualification,China,Uzbekistan,1.0,0.0,False
 2017-08-31,FIFA World Cup qualification,Cyprus,Bosnia and Herzegovina,3.0,2.0,False
 2017-08-31,FIFA World Cup qualification,France,Netherlands,4.0,0.0,False
 2017-08-31,FIFA World Cup qualification,Greece,Estonia,0.0,0.0,False
@@ -1550,7 +1550,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2017-09-05,FIFA World Cup qualification,Panama,Trinidad and Tobago,3.0,0.0,False
 2017-09-05,FIFA World Cup qualification,Paraguay,Uruguay,1.0,2.0,False
 2017-09-05,AFC Asian Cup qualification,Philippines,Yemen,2.0,2.0,False
-2017-09-05,FIFA World Cup qualification,Qatar,China PR,1.0,2.0,False
+2017-09-05,FIFA World Cup qualification,Qatar,China,1.0,2.0,False
 2017-09-05,FIFA World Cup qualification,Saudi Arabia,Japan,1.0,0.0,False
 2017-09-05,AFC Asian Cup qualification,Singapore,Turkmenistan,1.0,1.0,False
 2017-09-05,FIFA World Cup qualification,Solomon Islands,New Zealand,2.0,2.0,False
@@ -1691,7 +1691,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2017-11-09,Friendly,Singapore,Lebanon,0.0,1.0,False
 2017-11-10,FIFA World Cup qualification,Algeria,Nigeria,3.0,0.0,False
 2017-11-10,Friendly,Belgium,Mexico,3.0,3.0,False
-2017-11-10,Friendly,China PR,Serbia,0.0,2.0,False
+2017-11-10,Friendly,China,Serbia,0.0,2.0,False
 2017-11-10,Friendly,England,Germany,0.0,0.0,False
 2017-11-10,Friendly,France,Wales,2.0,0.0,False
 2017-11-10,Friendly,Georgia,Cyprus,1.0,0.0,False
@@ -1744,7 +1744,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2017-11-14,AFC Asian Cup qualification,Bhutan,Oman,2.0,4.0,False
 2017-11-14,FIFA World Cup qualification,Burkina Faso,Cape Verde,4.0,0.0,False
 2017-11-14,AFC Asian Cup qualification,Cambodia,Jordan,0.0,1.0,False
-2017-11-14,Friendly,China PR,Colombia,0.0,4.0,False
+2017-11-14,Friendly,China,Colombia,0.0,4.0,False
 2017-11-14,Friendly,England,Brazil,0.0,0.0,False
 2017-11-14,Friendly,Gabon,Botswana,0.0,0.0,False
 2017-11-14,Friendly,Germany,France,2.0,2.0,False
@@ -1806,7 +1806,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2017-12-09,Pacific Mini Games,Tonga,New Caledonia,2.0,4.0,True
 2017-12-09,EAFF Championship,Japan,North Korea,1.0,0.0,False
 2017-12-09,CECAFA Cup,Kenya,Zanzibar,0.0,0.0,False
-2017-12-09,EAFF Championship,South Korea,China PR,2.0,2.0,True
+2017-12-09,EAFF Championship,South Korea,China,2.0,2.0,True
 2017-12-09,CECAFA Cup,Rwanda,Tanzania,2.0,1.0,True
 2017-12-09,Pacific Mini Games,Solomon Islands,Tuvalu,6.0,0.0,True
 2017-12-09,Pacific Mini Games,Vanuatu,Fiji,1.0,1.0,False
@@ -1816,7 +1816,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2017-12-11,CECAFA Cup,South Sudan,Burundi,0.0,0.0,True
 2017-12-12,Pacific Mini Games,Fiji,Tonga,4.0,0.0,True
 2017-12-12,Pacific Mini Games,New Caledonia,Solomon Islands,0.0,0.0,True
-2017-12-12,EAFF Championship,Japan,China PR,2.0,1.0,False
+2017-12-12,EAFF Championship,Japan,China,2.0,1.0,False
 2017-12-12,EAFF Championship,North Korea,South Korea,0.0,1.0,True
 2017-12-12,Pacific Mini Games,Vanuatu,Tuvalu,10.0,0.0,False
 2017-12-14,CECAFA Cup,Kenya,Burundi,1.0,0.0,False
@@ -1825,7 +1825,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2017-12-15,CECAFA Cup,Uganda,Zanzibar,1.0,2.0,True
 2017-12-15,Pacific Mini Games,Fiji,New Caledonia,4.0,1.0,True
 2017-12-15,Pacific Mini Games,Vanuatu,Solomon Islands,3.0,2.0,False
-2017-12-16,EAFF Championship,China PR,North Korea,1.0,1.0,True
+2017-12-16,EAFF Championship,China,North Korea,1.0,1.0,True
 2017-12-16,EAFF Championship,Japan,South Korea,1.0,4.0,False
 2017-12-17,CECAFA Cup,Burundi,Uganda,1.0,2.0,True
 2017-12-17,CECAFA Cup,Kenya,Zanzibar,2.0,2.0,False
@@ -1874,7 +1874,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2018-03-22,Friendly,Bahrain,Palestine,0.0,0.0,False
 2018-03-22,Friendly,Belize,Grenada,4.0,2.0,False
 2018-03-22,Friendly,Burkina Faso,Guinea-Bissau,2.0,0.0,True
-2018-03-22,Friendly,China PR,Wales,0.0,6.0,False
+2018-03-22,Friendly,China,Wales,0.0,6.0,False
 2018-03-22,Friendly,Denmark,Panama,1.0,0.0,False
 2018-03-22,Friendly,Dominican Republic,Turks and Caicos Islands,4.0,0.0,False
 2018-03-22,Friendly,Faroe Islands,Latvia,1.0,1.0,True
@@ -1944,7 +1944,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2018-03-25,Friendly,Yorkshire,Chagos Islands,6.0,0.0,False
 2018-03-26,Friendly,Albania,Norway,0.0,1.0,False
 2018-03-26,Friendly,Bulgaria,Kazakhstan,2.0,1.0,True
-2018-03-26,Friendly,China PR,Czech Republic,1.0,4.0,False
+2018-03-26,Friendly,China,Czech Republic,1.0,4.0,False
 2018-03-26,Friendly,Curaçao,Bolivia,1.0,0.0,False
 2018-03-26,Friendly,Finland,Malta,5.0,0.0,True
 2018-03-26,Friendly,Portugal,Netherlands,0.0,3.0,True
@@ -2017,7 +2017,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2018-05-20,Friendly,Jordan,Cyprus,3.0,0.0,False
 2018-05-25,Friendly,Kuwait,Egypt,1.0,1.0,False
 2018-05-25,Friendly,Kenya,Eswatini,0.0,1.0,False
-2018-05-26,Friendly,China PR,Myanmar,1.0,0.0,False
+2018-05-26,Friendly,China,Myanmar,1.0,0.0,False
 2018-05-26,Friendly,Saint Barthélemy,Sint Maarten,5.0,3.0,False
 2018-05-27,Friendly,Cameroon,Burkina Faso,0.0,1.0,True
 2018-05-27,Friendly,Niger,Central African Republic,3.0,3.0,False
@@ -2074,7 +2074,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2018-06-01,COSAFA Cup,Angola,Malawi,0.0,0.0,True
 2018-06-01,Intercontinental Cup,India,Taiwan,5.0,0.0,False
 2018-06-02,Friendly,El Salvador,Honduras,1.0,0.0,True
-2018-06-02,Friendly,Thailand,China PR,0.0,2.0,False
+2018-06-02,Friendly,Thailand,China,0.0,2.0,False
 2018-06-02,Friendly,England,Nigeria,2.0,1.0,False
 2018-06-02,Friendly,Montenegro,Slovenia,0.0,2.0,False
 2018-06-02,Friendly,Mexico,Scotland,1.0,0.0,False
@@ -2292,7 +2292,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2018-09-06,Friendly,Kyrgyzstan,Palestine,1.0,1.0,False
 2018-09-06,Friendly,Netherlands,Peru,2.0,1.0,False
 2018-09-06,Friendly,Portugal,Croatia,1.0,1.0,False
-2018-09-06,Friendly,Trinidad and Tobago,United Arab Emirates,2.0,0.0,False
+2018-09-06,Friendly,Trinidad and Tobago,United Arab Emirates,2.0,0.0,True
 2018-09-06,Friendly,Uzbekistan,Syria,1.0,1.0,False
 2018-09-06,EAFF Championship,Northern Mariana Islands,Macau,1.0,1.0,True
 2018-09-06,EAFF Championship,Mongolia,Guam,1.0,1.0,False
@@ -2312,7 +2312,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2018-09-07,Friendly,Ecuador,Jamaica,2.0,0.0,True
 2018-09-07,Friendly,South Korea,Costa Rica,2.0,0.0,False
 2018-09-07,Friendly,Mexico,Uruguay,1.0,4.0,True
-2018-09-07,Friendly,Qatar,China PR,1.0,0.0,False
+2018-09-07,Friendly,Qatar,China,1.0,0.0,False
 2018-09-07,Friendly,Scotland,Belgium,0.0,4.0,False
 2018-09-07,Friendly,Singapore,Mauritius,1.0,1.0,False
 2018-09-07,Friendly,United States,Brazil,0.0,2.0,False
@@ -2381,7 +2381,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2018-09-10,UEFA Nations League,Andorra,Kazakhstan,1.0,1.0,False
 2018-09-10,UEFA Nations League,Kosovo,Faroe Islands,2.0,0.0,False
 2018-09-10,UEFA Nations League,Malta,Azerbaijan,1.0,1.0,False
-2018-09-10,Friendly,Bahrain,China PR,0.0,0.0,False
+2018-09-10,Friendly,Bahrain,China,0.0,0.0,False
 2018-09-10,Friendly,Cambodia,Malaysia,1.0,3.0,False
 2018-09-10,Friendly,Kuwait,Iraq,2.0,2.0,False
 2018-09-10,Friendly,Kyrgyzstan,Syria,2.0,1.0,False
@@ -2405,7 +2405,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2018-09-11,Friendly,Jordan,Oman,0.0,0.0,False
 2018-09-11,Friendly,Kenya,Malawi,1.0,0.0,False
 2018-09-11,Friendly,South Korea,Chile,0.0,0.0,False
-2018-09-11,Friendly,Laos,United Arab Emirates,0.0,3.0,False
+2018-09-11,Friendly,Laos,United Arab Emirates,0.0,3.0,True
 2018-09-11,Friendly,Liberia,Nigeria,1.0,2.0,False
 2018-09-11,Friendly,Northern Ireland,Israel,3.0,0.0,False
 2018-09-11,Friendly,Panama,Venezuela,0.0,2.0,False
@@ -2485,7 +2485,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2018-10-13,UEFA Nations League,Georgia,Andorra,3.0,0.0,False
 2018-10-13,UEFA Nations League,Armenia,Gibraltar,0.0,1.0,False
 2018-10-13,UEFA Nations League,North Macedonia,Liechtenstein,4.0,1.0,False
-2018-10-13,Friendly,China PR,India,0.0,0.0,False
+2018-10-13,Friendly,China,India,0.0,0.0,False
 2018-10-13,Friendly,Myanmar,Bolivia,0.0,3.0,False
 2018-10-13,Friendly,Oman,Philippines,1.0,1.0,True
 2018-10-13,Friendly,Uzbekistan,North Korea,2.0,0.0,False
@@ -2540,7 +2540,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2018-10-16,Friendly,Bahrain,Myanmar,4.0,1.0,False
 2018-10-16,Friendly,Belgium,Netherlands,1.0,1.0,False
 2018-10-16,Friendly,Cambodia,Singapore,1.0,2.0,False
-2018-10-16,Friendly,China PR,Syria,2.0,0.0,False
+2018-10-16,Friendly,China,Syria,2.0,0.0,False
 2018-10-16,Friendly,Colombia,Costa Rica,3.0,1.0,True
 2018-10-16,Friendly,Denmark,Austria,2.0,0.0,False
 2018-10-16,Friendly,Indonesia,Hong Kong,1.0,1.0,False
@@ -2715,7 +2715,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2018-11-20,Friendly,Australia,Lebanon,3.0,0.0,False
 2018-11-20,Friendly,Brazil,Cameroon,1.0,0.0,True
 2018-11-20,Friendly,Chile,Honduras,4.0,1.0,False
-2018-11-20,Friendly,China PR,Palestine,1.0,1.0,False
+2018-11-20,Friendly,China,Palestine,1.0,1.0,False
 2018-11-20,Friendly,El Salvador,Haiti,1.0,0.0,False
 2018-11-20,Friendly,France,Uruguay,1.0,0.0,False
 2018-11-20,Friendly,Iran,Venezuela,1.0,1.0,True
@@ -2754,7 +2754,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2018-12-20,Friendly,Bahrain,Tajikistan,5.0,0.0,False
 2018-12-20,Friendly,Jordan,Kyrgyzstan,0.0,1.0,True
 2018-12-23,Friendly,Qatar,Jordan,2.0,0.0,False
-2018-12-24,Friendly,Iraq,China PR,2.0,1.0,True
+2018-12-24,Friendly,Iraq,China,2.0,1.0,True
 2018-12-24,Friendly,Palestine,Iran,1.0,1.0,True
 2018-12-25,Friendly,Afghanistan,Turkmenistan,0.0,2.0,True
 2018-12-25,Friendly,Qatar,Kyrgyzstan,1.0,0.0,False
@@ -2762,7 +2762,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2018-12-27,Friendly,Bahrain,Lebanon,1.0,0.0,False
 2018-12-27,Friendly,India,Oman,0.0,0.0,True
 2018-12-27,Friendly,Qatar,Algeria,0.0,1.0,False
-2018-12-28,Friendly,China PR,Jordan,1.0,1.0,True
+2018-12-28,Friendly,China,Jordan,1.0,1.0,True
 2018-12-28,Friendly,Iraq,Palestine,1.0,0.0,True
 2018-12-28,Friendly,United Arab Emirates,Kuwait,0.0,2.0,False
 2018-12-29,Friendly,Bahrain,North Korea,4.0,0.0,False
@@ -2777,7 +2777,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-01-06,AFC Asian Cup,Thailand,India,1.0,4.0,True
 2019-01-06,AFC Asian Cup,Australia,Jordan,0.0,1.0,True
 2019-01-06,AFC Asian Cup,Syria,Palestine,0.0,0.0,True
-2019-01-07,AFC Asian Cup,China PR,Kyrgyzstan,2.0,1.0,True
+2019-01-07,AFC Asian Cup,China,Kyrgyzstan,2.0,1.0,True
 2019-01-07,AFC Asian Cup,South Korea,Philippines,1.0,0.0,True
 2019-01-07,AFC Asian Cup,Iran,Yemen,5.0,0.0,True
 2019-01-08,Friendly,Finland,Sweden,1.0,0.0,True
@@ -2792,7 +2792,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-01-11,Friendly,Estonia,Finland,2.0,1.0,True
 2019-01-11,Friendly,Iceland,Sweden,2.0,2.0,True
 2019-01-11,AFC Asian Cup,Palestine,Australia,0.0,3.0,True
-2019-01-11,AFC Asian Cup,Philippines,China PR,0.0,3.0,True
+2019-01-11,AFC Asian Cup,Philippines,China,0.0,3.0,True
 2019-01-11,AFC Asian Cup,Kyrgyzstan,South Korea,0.0,1.0,True
 2019-01-12,AFC Asian Cup,Vietnam,Iran,0.0,2.0,True
 2019-01-12,AFC Asian Cup,Yemen,Iraq,0.0,3.0,True
@@ -2805,7 +2805,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-01-15,Friendly,Estonia,Iceland,0.0,0.0,True
 2019-01-15,AFC Asian Cup,Australia,Syria,3.0,2.0,True
 2019-01-15,AFC Asian Cup,Palestine,Jordan,0.0,0.0,True
-2019-01-16,AFC Asian Cup,South Korea,China PR,2.0,0.0,True
+2019-01-16,AFC Asian Cup,South Korea,China,2.0,0.0,True
 2019-01-16,AFC Asian Cup,Kyrgyzstan,Philippines,3.0,1.0,True
 2019-01-16,AFC Asian Cup,Iran,Iraq,0.0,0.0,True
 2019-01-16,AFC Asian Cup,Vietnam,Yemen,2.0,0.0,True
@@ -2815,13 +2815,13 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-01-17,AFC Asian Cup,Oman,Turkmenistan,3.0,1.0,True
 2019-01-20,AFC Asian Cup,Iran,Oman,2.0,0.0,True
 2019-01-20,AFC Asian Cup,Jordan,Vietnam,1.0,1.0,True
-2019-01-20,AFC Asian Cup,Thailand,China PR,1.0,2.0,True
+2019-01-20,AFC Asian Cup,Thailand,China,1.0,2.0,True
 2019-01-21,AFC Asian Cup,Australia,Uzbekistan,0.0,0.0,True
 2019-01-21,AFC Asian Cup,Japan,Saudi Arabia,1.0,0.0,True
 2019-01-21,AFC Asian Cup,United Arab Emirates,Kyrgyzstan,3.0,2.0,False
 2019-01-22,AFC Asian Cup,South Korea,Bahrain,2.0,1.0,True
 2019-01-22,AFC Asian Cup,Qatar,Iraq,1.0,0.0,True
-2019-01-24,AFC Asian Cup,China PR,Iran,0.0,3.0,True
+2019-01-24,AFC Asian Cup,China,Iran,0.0,3.0,True
 2019-01-24,AFC Asian Cup,Vietnam,Japan,0.0,1.0,True
 2019-01-25,AFC Asian Cup,South Korea,Qatar,0.0,1.0,True
 2019-01-25,AFC Asian Cup,United Arab Emirates,Australia,1.0,0.0,False
@@ -3060,9 +3060,9 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-06-07,COSAFA Cup,Lesotho,Zimbabwe,2.0,2.0,True
 2019-06-07,COSAFA Cup,South Africa,Malawi,0.0,0.0,False
 2019-06-07,Friendly,Argentina,Nicaragua,5.0,1.0,False
-2019-06-07,Friendly,China PR,Philippines,2.0,0.0,False
+2019-06-07,Friendly,China,Philippines,2.0,0.0,False
 2019-06-07,Friendly,Fiji,Tahiti,1.0,1.0,True
-2019-06-07,Friendly,Ivory Coast,Comoros,3.0,1.0,False
+2019-06-07,Friendly,Ivory Coast,Comoros,3.0,1.0,True
 2019-06-07,Friendly,Kenya,Madagascar,1.0,0.0,False
 2019-06-07,Friendly,South Korea,Australia,1.0,0.0,False
 2019-06-07,Friendly,Tunisia,Iraq,2.0,0.0,False
@@ -3083,7 +3083,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-06-08,UEFA Euro qualification,Armenia,Liechtenstein,3.0,0.0,False
 2019-06-08,UEFA Euro qualification,Greece,Italy,0.0,3.0,False
 2019-06-08,COSAFA Cup,Botswana,Zambia,0.0,1.0,True
-2019-06-08,Friendly,Angola,Guinea-Bissau,2.0,0.0,False
+2019-06-08,Friendly,Angola,Guinea-Bissau,2.0,0.0,True
 2019-06-08,Friendly,Nigeria,Zimbabwe,0.0,0.0,False
 2019-06-08,Friendly,Singapore,Solomon Islands,4.0,3.0,False
 2019-06-08,CONIFA European Football Cup,Abkhazia,Chameria,0.0,0.0,True
@@ -3129,7 +3129,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-06-11,UEFA Euro qualification,Greece,Armenia,2.0,3.0,False
 2019-06-11,Friendly,Algeria,Burundi,1.0,1.0,True
 2019-06-11,Friendly,Benin,Guinea,1.0,0.0,True
-2019-06-11,Friendly,China PR,Tajikistan,1.0,0.0,False
+2019-06-11,Friendly,China,Tajikistan,1.0,0.0,False
 2019-06-11,Friendly,Croatia,Tunisia,1.0,2.0,False
 2019-06-11,Friendly,Hong Kong,Taiwan,0.0,2.0,False
 2019-06-11,Friendly,Jordan,Indonesia,4.0,1.0,False
@@ -3357,7 +3357,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-08-28,Friendly,Taiwan,Guam,3.0,0.0,False
 2019-08-29,Friendly,United Arab Emirates,Dominican Republic,4.0,0.0,True
 2019-08-30,Friendly,Belize,Saint Vincent and the Grenadines,1.0,0.0,False
-2019-08-30,Friendly,China PR,Myanmar,4.0,1.0,True
+2019-08-30,Friendly,China,Myanmar,4.0,1.0,True
 2019-08-30,Friendly,Malaysia,Jordan,0.0,1.0,False
 2019-08-31,Friendly,United Arab Emirates,Sri Lanka,5.0,1.0,True
 2019-09-04,Friendly,Libya,Burkina Faso,0.0,1.0,True
@@ -3511,7 +3511,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-09-10,CONCACAF Nations League,Puerto Rico,Guatemala,0.0,5.0,False
 2019-09-10,CONCACAF Nations League,Turks and Caicos Islands,Guadeloupe,0.0,3.0,False
 2019-09-10,FIFA World Cup qualification,Guam,Philippines,1.0,4.0,False
-2019-09-10,FIFA World Cup qualification,Maldives,China PR,0.0,5.0,False
+2019-09-10,FIFA World Cup qualification,Maldives,China,0.0,5.0,False
 2019-09-10,FIFA World Cup qualification,Kuwait,Australia,0.0,3.0,False
 2019-09-10,FIFA World Cup qualification,Taiwan,Nepal,0.0,2.0,False
 2019-09-10,FIFA World Cup qualification,Cambodia,Bahrain,0.0,1.0,False
@@ -3561,7 +3561,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-10-10,UEFA Euro qualification,Russia,Scotland,4.0,0.0,False
 2019-10-10,Friendly,Algeria,DR Congo,1.0,1.0,False
 2019-10-10,Friendly,Brazil,Senegal,1.0,1.0,True
-2019-10-10,Friendly,Cape Verde,Togo,2.0,1.0,False
+2019-10-10,Friendly,Cape Verde,Togo,2.0,1.0,True
 2019-10-10,Friendly,Gabon,Burkina Faso,1.0,0.0,True
 2019-10-10,Friendly,Kosovo,Gibraltar,1.0,0.0,False
 2019-10-10,Friendly,Niger,Zambia,1.0,1.0,False
@@ -3575,7 +3575,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-10-10,CONCACAF Nations League,British Virgin Islands,Bahamas,0.0,4.0,True
 2019-10-10,CONCACAF Nations League,Sint Maarten,Turks and Caicos Islands,2.0,5.0,True
 2019-10-10,FIFA World Cup qualification,Syria,Maldives,2.0,1.0,True
-2019-10-10,FIFA World Cup qualification,China PR,Guam,7.0,0.0,False
+2019-10-10,FIFA World Cup qualification,China,Guam,7.0,0.0,False
 2019-10-10,FIFA World Cup qualification,Jordan,Kuwait,0.0,0.0,False
 2019-10-10,FIFA World Cup qualification,Australia,Nepal,5.0,0.0,False
 2019-10-10,FIFA World Cup qualification,Iran,Cambodia,14.0,0.0,False
@@ -3613,7 +3613,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-10-12,UEFA Euro qualification,Italy,Greece,2.0,0.0,False
 2019-10-12,UEFA Euro qualification,Liechtenstein,Armenia,1.0,1.0,False
 2019-10-12,Friendly,Colombia,Chile,0.0,0.0,True
-2019-10-12,Friendly,Guinea,Comoros,0.0,1.0,False
+2019-10-12,Friendly,Guinea,Comoros,0.0,1.0,True
 2019-10-12,Friendly,Ivory Coast,DR Congo,3.0,1.0,False
 2019-10-12,Friendly,Tunisia,Cameroon,0.0,0.0,False
 2019-10-12,CONCACAF Nations League,Dominican Republic,Saint Lucia,3.0,0.0,False
@@ -3638,7 +3638,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-10-13,Friendly,Benin,Zambia,2.0,2.0,False
 2019-10-13,Friendly,Brazil,Nigeria,1.0,1.0,True
 2019-10-13,Friendly,Ecuador,Argentina,1.0,6.0,True
-2019-10-13,Friendly,Equatorial Guinea,Togo,1.0,1.0,False
+2019-10-13,Friendly,Equatorial Guinea,Togo,1.0,1.0,True
 2019-10-13,Friendly,Ethiopia,Uganda,0.0,1.0,False
 2019-10-13,Friendly,Kenya,Mozambique,0.0,1.0,False
 2019-10-13,Friendly,Lesotho,Malawi,1.0,1.0,False
@@ -3674,7 +3674,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-10-15,UEFA Euro qualification,Finland,Armenia,3.0,0.0,False
 2019-10-15,UEFA Euro qualification,Liechtenstein,Italy,0.0,5.0,False
 2019-10-15,UEFA Euro qualification,Greece,Bosnia and Herzegovina,2.0,1.0,False
-2019-10-15,Friendly,Algeria,Colombia,3.0,0.0,False
+2019-10-15,Friendly,Algeria,Colombia,3.0,0.0,True
 2019-10-15,Friendly,Bermuda,Guatemala,0.0,0.0,False
 2019-10-15,Friendly,Bolivia,Haiti,3.0,1.0,False
 2019-10-15,Friendly,Chile,Guinea,3.0,2.0,True
@@ -3692,7 +3692,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-10-15,CONCACAF Nations League,United States Virgin Islands,Barbados,0.0,4.0,False
 2019-10-15,CONCACAF Nations League,Anguilla,Puerto Rico,2.0,3.0,False
 2019-10-15,FIFA World Cup qualification,Syria,Guam,4.0,0.0,True
-2019-10-15,FIFA World Cup qualification,Philippines,China PR,0.0,0.0,False
+2019-10-15,FIFA World Cup qualification,Philippines,China,0.0,0.0,False
 2019-10-15,FIFA World Cup qualification,Jordan,Nepal,3.0,0.0,False
 2019-10-15,FIFA World Cup qualification,Taiwan,Australia,1.0,7.0,False
 2019-10-15,FIFA World Cup qualification,Cambodia,Iraq,0.0,4.0,False
@@ -3707,6 +3707,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-10-15,FIFA World Cup qualification,Indonesia,Vietnam,1.0,3.0,False
 2019-10-15,FIFA World Cup qualification,North Korea,South Korea,0.0,0.0,False
 2019-10-15,FIFA World Cup qualification,Sri Lanka,Lebanon,0.0,3.0,False
+2019-10-19,Friendly,West Papua,East Turkestan,2.0,8.0,True
 2019-11-07,Friendly,Egypt,Liberia,1.0,0.0,False
 2019-11-07,Friendly,Nicaragua,Cuba,0.0,0.0,False
 2019-11-09,Friendly,Malaysia,Tajikistan,1.0,0.0,False
@@ -3752,7 +3753,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-11-14,Friendly,Republic of Ireland,New Zealand,3.0,1.0,False
 2019-11-14,Friendly,Ukraine,Estonia,1.0,0.0,False
 2019-11-14,FIFA World Cup qualification,Maldives,Philippines,1.0,2.0,False
-2019-11-14,FIFA World Cup qualification,Syria,China PR,2.0,1.0,True
+2019-11-14,FIFA World Cup qualification,Syria,China,2.0,1.0,True
 2019-11-14,FIFA World Cup qualification,Jordan,Australia,0.0,1.0,False
 2019-11-14,FIFA World Cup qualification,Kuwait,Taiwan,9.0,0.0,False
 2019-11-14,FIFA World Cup qualification,Iraq,Iran,2.0,1.0,True
@@ -3912,11 +3913,12 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2019-12-05,Gulf Cup,Qatar,Saudi Arabia,0.0,1.0,False
 2019-12-08,Gulf Cup,Bahrain,Saudi Arabia,1.0,0.0,True
 2019-12-08,Friendly,Luhansk PR,South Ossetia,4.0,3.0,False
-2019-12-10,EAFF Championship,China PR,Japan,1.0,2.0,True
+2019-12-10,EAFF Championship,China,Japan,1.0,2.0,True
 2019-12-11,EAFF Championship,South Korea,Hong Kong,2.0,0.0,False
 2019-12-14,EAFF Championship,Japan,Hong Kong,5.0,0.0,True
-2019-12-15,EAFF Championship,South Korea,China PR,1.0,0.0,False
-2019-12-18,EAFF Championship,Hong Kong,China PR,0.0,2.0,True
+2019-12-14,CONIFA World Cup qualification,Tamil Eelam,East Turkestan,3.0,0.0,True
+2019-12-15,EAFF Championship,South Korea,China,1.0,0.0,False
+2019-12-18,EAFF Championship,Hong Kong,China,0.0,2.0,True
 2019-12-18,EAFF Championship,South Korea,Japan,1.0,0.0,False
 2019-12-29,Friendly,Chagos Islands,Panjab,0.0,6.0,True
 2020-01-07,Friendly,Barbados,Canada,1.0,4.0,True
@@ -4479,7 +4481,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2021-05-29,Friendly,Thailand,Tajikistan,2.0,2.0,True
 2021-05-30,Friendly,Malta,Northern Ireland,0.0,3.0,True
 2021-05-30,Friendly,Switzerland,United States,2.0,1.0,False
-2021-05-30,FIFA World Cup qualification,China PR,Guam,7.0,0.0,False
+2021-05-30,FIFA World Cup qualification,China,Guam,7.0,0.0,False
 2021-05-31,Friendly,Jordan,Vietnam,1.0,1.0,True
 2021-05-31,Friendly,Turkey,Guinea,0.0,0.0,False
 2021-06-01,Friendly,Croatia,Armenia,1.0,1.0,False
@@ -4578,7 +4580,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2021-06-07,Friendly,Serbia,Jamaica,1.0,1.0,True
 2021-06-07,Friendly,Ukraine,Cyprus,4.0,0.0,False
 2021-06-07,FIFA World Cup qualification,Guam,Syria,0.0,3.0,True
-2021-06-07,FIFA World Cup qualification,China PR,Philippines,2.0,0.0,True
+2021-06-07,FIFA World Cup qualification,China,Philippines,2.0,0.0,True
 2021-06-07,FIFA World Cup qualification,Nepal,Jordan,0.0,3.0,True
 2021-06-07,FIFA World Cup qualification,Australia,Taiwan,5.0,1.0,True
 2021-06-07,FIFA World Cup qualification,Iraq,Cambodia,4.0,1.0,True
@@ -4626,7 +4628,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2021-06-10,Baltic Cup,Estonia,Latvia,2.0,1.0,False
 2021-06-10,Friendly,South Africa,Uganda,3.0,2.0,False
 2021-06-11,FIFA World Cup qualification,Philippines,Guam,3.0,0.0,True
-2021-06-11,FIFA World Cup qualification,China PR,Maldives,5.0,0.0,True
+2021-06-11,FIFA World Cup qualification,China,Maldives,5.0,0.0,True
 2021-06-11,FIFA World Cup qualification,Nepal,Australia,0.0,3.0,True
 2021-06-11,FIFA World Cup qualification,Kuwait,Jordan,0.0,0.0,False
 2021-06-11,FIFA World Cup qualification,Cambodia,Iran,0.0,10.0,True
@@ -4668,7 +4670,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2021-06-14,Copa América,Argentina,Chile,1.0,1.0,True
 2021-06-14,Copa América,Paraguay,Bolivia,3.0,1.0,True
 2021-06-15,FIFA World Cup qualification,Philippines,Maldives,1.0,1.0,True
-2021-06-15,FIFA World Cup qualification,China PR,Syria,3.0,1.0,False
+2021-06-15,FIFA World Cup qualification,China,Syria,3.0,1.0,False
 2021-06-15,FIFA World Cup qualification,Australia,Jordan,1.0,0.0,True
 2021-06-15,FIFA World Cup qualification,Bahrain,Hong Kong,4.0,0.0,False
 2021-06-15,FIFA World Cup qualification,Iran,Iraq,1.0,0.0,False
@@ -4869,7 +4871,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2021-09-02,FIFA World Cup qualification,Iran,Syria,1.0,0.0,False
 2021-09-02,FIFA World Cup qualification,United Arab Emirates,Lebanon,0.0,0.0,False
 2021-09-02,FIFA World Cup qualification,Japan,Oman,0.0,1.0,False
-2021-09-02,FIFA World Cup qualification,Australia,China PR,3.0,0.0,True
+2021-09-02,FIFA World Cup qualification,Australia,China,3.0,0.0,True
 2021-09-02,FIFA World Cup qualification,Saudi Arabia,Vietnam,3.0,1.0,False
 2021-09-02,FIFA World Cup qualification,Georgia,Kosovo,0.0,1.0,False
 2021-09-02,FIFA World Cup qualification,Sweden,Spain,2.0,1.0,False
@@ -4966,7 +4968,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2021-09-07,FIFA World Cup qualification,Syria,United Arab Emirates,1.0,1.0,True
 2021-09-07,FIFA World Cup qualification,South Korea,Lebanon,1.0,0.0,False
 2021-09-07,FIFA World Cup qualification,Iraq,Iran,0.0,3.0,True
-2021-09-07,FIFA World Cup qualification,China PR,Japan,0.0,1.0,True
+2021-09-07,FIFA World Cup qualification,China,Japan,0.0,1.0,True
 2021-09-07,FIFA World Cup qualification,Vietnam,Australia,0.0,1.0,False
 2021-09-07,FIFA World Cup qualification,Oman,Saudi Arabia,0.0,1.0,False
 2021-09-07,FIFA World Cup qualification,Republic of Ireland,Serbia,1.0,1.0,False
@@ -5022,7 +5024,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2021-10-07,FIFA World Cup qualification,South Korea,Syria,2.0,1.0,False
 2021-10-07,FIFA World Cup qualification,United Arab Emirates,Iran,0.0,1.0,False
 2021-10-07,FIFA World Cup qualification,Saudi Arabia,Japan,1.0,0.0,False
-2021-10-07,FIFA World Cup qualification,China PR,Vietnam,3.0,2.0,True
+2021-10-07,FIFA World Cup qualification,China,Vietnam,3.0,2.0,True
 2021-10-07,FIFA World Cup qualification,Australia,Oman,3.0,1.0,True
 2021-10-07,FIFA World Cup qualification,Honduras,Costa Rica,0.0,0.0,False
 2021-10-07,FIFA World Cup qualification,United States,Jamaica,2.0,0.0,False
@@ -5130,7 +5132,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2021-10-12,FIFA World Cup qualification,United Arab Emirates,Iraq,2.0,2.0,False
 2021-10-12,FIFA World Cup qualification,Japan,Australia,2.0,1.0,False
 2021-10-12,FIFA World Cup qualification,Oman,Vietnam,3.0,1.0,False
-2021-10-12,FIFA World Cup qualification,Saudi Arabia,China PR,3.0,2.0,False
+2021-10-12,FIFA World Cup qualification,Saudi Arabia,China,3.0,2.0,False
 2021-10-12,FIFA World Cup qualification,Portugal,Luxembourg,5.0,0.0,False
 2021-10-12,FIFA World Cup qualification,Serbia,Azerbaijan,3.0,1.0,False
 2021-10-12,FIFA World Cup qualification,Kosovo,Georgia,1.0,2.0,False
@@ -5189,7 +5191,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2021-11-11,FIFA World Cup qualification,Lebanon,Iran,1.0,2.0,False
 2021-11-11,FIFA World Cup qualification,Iraq,Syria,1.0,1.0,True
 2021-11-11,FIFA World Cup qualification,South Korea,United Arab Emirates,1.0,0.0,False
-2021-11-11,FIFA World Cup qualification,China PR,Oman,1.0,1.0,True
+2021-11-11,FIFA World Cup qualification,China,Oman,1.0,1.0,True
 2021-11-11,FIFA World Cup qualification,Vietnam,Japan,0.0,1.0,False
 2021-11-11,FIFA World Cup qualification,Australia,Saudi Arabia,0.0,0.0,False
 2021-11-11,FIFA World Cup qualification,Republic of Ireland,Portugal,0.0,0.0,False
@@ -5295,7 +5297,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2021-11-16,FIFA World Cup qualification,Lebanon,United Arab Emirates,0.0,1.0,False
 2021-11-16,FIFA World Cup qualification,Iraq,South Korea,0.0,3.0,True
 2021-11-16,FIFA World Cup qualification,Syria,Iran,0.0,3.0,True
-2021-11-16,FIFA World Cup qualification,China PR,Australia,1.0,1.0,True
+2021-11-16,FIFA World Cup qualification,China,Australia,1.0,1.0,True
 2021-11-16,FIFA World Cup qualification,Vietnam,Saudi Arabia,0.0,1.0,False
 2021-11-16,FIFA World Cup qualification,Oman,Japan,0.0,1.0,False
 2021-11-16,FIFA World Cup qualification,Jamaica,United States,1.0,1.0,False
@@ -5451,7 +5453,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2022-01-27,FIFA World Cup qualification,Lebanon,South Korea,0.0,1.0,False
 2022-01-27,FIFA World Cup qualification,Iran,Iraq,1.0,0.0,False
 2022-01-27,FIFA World Cup qualification,United Arab Emirates,Syria,2.0,0.0,False
-2022-01-27,FIFA World Cup qualification,Japan,China PR,2.0,0.0,False
+2022-01-27,FIFA World Cup qualification,Japan,China,2.0,0.0,False
 2022-01-27,FIFA World Cup qualification,Australia,Vietnam,4.0,0.0,False
 2022-01-27,FIFA World Cup qualification,Saudi Arabia,Oman,1.0,0.0,False
 2022-01-27,FIFA World Cup qualification,Ecuador,Brazil,1.0,1.0,False
@@ -5481,7 +5483,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2022-02-01,FIFA World Cup qualification,Lebanon,Iraq,1.0,1.0,False
 2022-02-01,FIFA World Cup qualification,Iran,United Arab Emirates,1.0,0.0,False
 2022-02-01,FIFA World Cup qualification,Syria,South Korea,0.0,2.0,True
-2022-02-01,FIFA World Cup qualification,Vietnam,China PR,3.0,1.0,False
+2022-02-01,FIFA World Cup qualification,Vietnam,China,3.0,1.0,False
 2022-02-01,FIFA World Cup qualification,Japan,Saudi Arabia,2.0,0.0,False
 2022-02-01,FIFA World Cup qualification,Oman,Australia,2.0,2.0,False
 2022-02-01,FIFA World Cup qualification,Bolivia,Chile,2.0,3.0,False
@@ -5523,7 +5525,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2022-03-24,FIFA World Cup qualification,Lebanon,Syria,0.0,3.0,False
 2022-03-24,FIFA World Cup qualification,Iraq,United Arab Emirates,1.0,0.0,True
 2022-03-24,FIFA World Cup qualification,South Korea,Iran,2.0,0.0,False
-2022-03-24,FIFA World Cup qualification,China PR,Saudi Arabia,1.0,1.0,True
+2022-03-24,FIFA World Cup qualification,China,Saudi Arabia,1.0,1.0,True
 2022-03-24,FIFA World Cup qualification,Vietnam,Oman,0.0,1.0,False
 2022-03-24,FIFA World Cup qualification,Australia,Japan,0.0,2.0,False
 2022-03-24,FIFA World Cup qualification,Solomon Islands,Tahiti,3.0,1.0,True
@@ -5618,7 +5620,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2022-03-29,FIFA World Cup qualification,Syria,Iraq,1.0,1.0,True
 2022-03-29,FIFA World Cup qualification,United Arab Emirates,South Korea,1.0,0.0,False
 2022-03-29,FIFA World Cup qualification,Japan,Vietnam,1.0,1.0,False
-2022-03-29,FIFA World Cup qualification,Oman,China PR,2.0,0.0,False
+2022-03-29,FIFA World Cup qualification,Oman,China,2.0,0.0,False
 2022-03-29,FIFA World Cup qualification,Saudi Arabia,Australia,1.0,0.0,False
 2022-03-29,FIFA World Cup qualification,Ecuador,Argentina,1.0,1.0,False
 2022-03-29,FIFA World Cup qualification,Peru,Paraguay,2.0,0.0,False
@@ -5641,7 +5643,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2022-03-29,Friendly,England,Ivory Coast,3.0,0.0,False
 2022-03-29,Friendly,Faroe Islands,Liechtenstein,1.0,0.0,True
 2022-03-29,Friendly,Finland,Slovakia,0.0,2.0,True
-2022-03-29,Friendly,France,South Africa,5.0,0.0,True
+2022-03-29,Friendly,France,South Africa,5.0,0.0,False
 2022-03-29,Friendly,Israel,Romania,2.0,2.0,False
 2022-03-29,Friendly,Liberia,Burundi,1.0,2.0,True
 2022-03-29,Friendly,Malta,Kuwait,2.0,0.0,False
@@ -5669,6 +5671,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2022-03-30,FIFA World Cup qualification,Panama,Canada,1.0,0.0,False
 2022-03-30,FIFA World Cup qualification,Jamaica,Honduras,2.0,1.0,False
 2022-03-30,FIFA World Cup qualification,Solomon Islands,New Zealand,0.0,5.0,True
+2022-04-22,Friendly,Elba Island,Vatican City,4.0,2.0,False
 2022-04-23,Muratti Vase,Alderney,Guernsey,0.0,2.0,False
 2022-04-24,Friendly,El Salvador,Guatemala,0.0,4.0,True
 2022-04-27,Friendly,Mexico,Guatemala,0.0,0.0,True
@@ -6012,10 +6015,10 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2022-07-17,COSAFA Cup,Mozambique,Senegal,1.0,1.0,True
 2022-07-17,COSAFA Cup,Namibia,Zambia,0.0,1.0,True
 2022-07-19,EAFF Championship,Japan,Hong Kong,6.0,0.0,False
-2022-07-20,EAFF Championship,China PR,South Korea,0.0,3.0,True
+2022-07-20,EAFF Championship,China,South Korea,0.0,3.0,True
 2022-07-24,EAFF Championship,South Korea,Hong Kong,3.0,0.0,True
-2022-07-24,EAFF Championship,Japan,China PR,0.0,0.0,False
-2022-07-27,EAFF Championship,China PR,Hong Kong,1.0,0.0,True
+2022-07-24,EAFF Championship,Japan,China,0.0,0.0,False
+2022-07-27,EAFF Championship,China,Hong Kong,1.0,0.0,True
 2022-07-27,EAFF Championship,Japan,South Korea,3.0,0.0,False
 2022-08-07,Friendly,Raetia,Tibet,3.0,3.0,False
 2022-08-31,Friendly,Mexico,Paraguay,0.0,1.0,True
@@ -6406,7 +6409,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2023-03-23,Friendly,Hungary,Estonia,1.0,0.0,False
 2023-03-23,Friendly,Iran,Russia,1.0,1.0,False
 2023-03-23,Friendly,Malaysia,Turkmenistan,1.0,0.0,False
-2023-03-23,Friendly,New Zealand,China PR,0.0,0.0,False
+2023-03-23,Friendly,New Zealand,China,0.0,0.0,False
 2023-03-23,Friendly,Solomon Islands,Vanuatu,2.0,0.0,True
 2023-03-23,African Cup of Nations qualification,Madagascar,Central African Republic,0.0,3.0,False
 2023-03-23,African Cup of Nations qualification,Ghana,Angola,1.0,0.0,False
@@ -6487,7 +6490,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2023-03-25,CONCACAF Nations League,Turks and Caicos Islands,United States Virgin Islands,1.0,0.0,False
 2023-03-26,Friendly,Fiji,Solomon Islands,0.0,2.0,False
 2023-03-26,Friendly,Macau,Singapore,0.0,1.0,False
-2023-03-26,Friendly,New Zealand,China PR,2.0,1.0,False
+2023-03-26,Friendly,New Zealand,China,2.0,1.0,False
 2023-03-26,Friendly,Russia,Iraq,2.0,0.0,False
 2023-03-26,African Cup of Nations qualification,São Tomé and Príncipe,Sierra Leone,0.0,2.0,True
 2023-03-26,African Cup of Nations qualification,Lesotho,Zambia,0.0,2.0,True
@@ -6618,7 +6621,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2023-06-16,Gold Cup qualification,Martinique,Saint Lucia,3.0,1.0,True
 2023-06-16,Gold Cup qualification,Curaçao,Saint Kitts and Nevis,1.0,1.0,True
 2023-06-16,Friendly,Chile,Dominican Republic,5.0,0.0,False
-2023-06-16,Friendly,China PR,Myanmar,4.0,0.0,False
+2023-06-16,Friendly,China,Myanmar,4.0,0.0,False
 2023-06-16,Friendly,Taiwan,Thailand,2.0,2.0,False
 2023-06-16,Friendly,Colombia,Iraq,1.0,0.0,True
 2023-06-16,Friendly,South Korea,Peru,0.0,1.0,False
@@ -6707,7 +6710,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2023-06-20,Friendly,Algeria,Tunisia,1.0,1.0,False
 2023-06-20,Friendly,Bolivia,Chile,0.0,0.0,False
 2023-06-20,Friendly,Brazil,Senegal,2.0,4.0,True
-2023-06-20,Friendly,China PR,Palestine,2.0,0.0,False
+2023-06-20,Friendly,China,Palestine,2.0,0.0,False
 2023-06-20,Friendly,Ecuador,Costa Rica,3.0,1.0,True
 2023-06-20,Friendly,Germany,Colombia,0.0,2.0,False
 2023-06-20,Friendly,Haiti,Trinidad and Tobago,0.0,0.0,True
@@ -6922,7 +6925,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2023-09-09,CONCACAF Nations League,Antigua and Barbuda,Guyana,1.0,5.0,False
 2023-09-09,CONCACAF Nations League,Bahamas,Puerto Rico,1.0,6.0,False
 2023-09-09,CONCACAF Nations League,British Virgin Islands,Turks and Caicos Islands,3.0,1.0,False
-2023-09-09,Friendly,China PR,Malaysia,1.0,1.0,False
+2023-09-09,Friendly,China,Malaysia,1.0,1.0,False
 2023-09-09,Friendly,Germany,Japan,1.0,4.0,False
 2023-09-09,Friendly,Mexico,Australia,2.0,2.0,True
 2023-09-09,Friendly,South Africa,Namibia,0.0,0.0,False
@@ -6990,7 +6993,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2023-09-12,FIFA World Cup qualification,Chile,Colombia,0.0,0.0,False
 2023-09-12,Friendly,Azerbaijan,Jordan,2.0,1.0,False
 2023-09-12,Friendly,Bahrain,Turkmenistan,1.0,1.0,True
-2023-09-12,Friendly,China PR,Syria,0.0,1.0,False
+2023-09-12,Friendly,China,Syria,0.0,1.0,False
 2023-09-12,Friendly,Egypt,Tunisia,1.0,3.0,False
 2023-09-12,Friendly,Germany,France,2.0,1.0,False
 2023-09-12,Friendly,Qatar,Russia,1.0,1.0,False
@@ -7020,7 +7023,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2023-09-12,UEFA Euro qualification,Romania,Kosovo,2.0,0.0,False
 2023-10-08,MSG Prime Minister's Cup,Papua New Guinea,Solomon Islands,1.0,3.0,True
 2023-10-08,MSG Prime Minister's Cup,New Caledonia,Vanuatu,4.0,0.0,False
-2023-10-10,Friendly,China PR,Vietnam,2.0,0.0,False
+2023-10-10,Friendly,China,Vietnam,2.0,0.0,False
 2023-10-11,Friendly,Wales,Gibraltar,4.0,0.0,False
 2023-10-11,MSG Prime Minister's Cup,Solomon Islands,Vanuatu,1.0,0.0,True
 2023-10-11,MSG Prime Minister's Cup,New Caledonia,Papua New Guinea,3.0,1.0,False
@@ -7129,7 +7132,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2023-10-16,Friendly,Algeria,Egypt,1.0,1.0,True
 2023-10-16,Friendly,Botswana,Eswatini,2.0,1.0,False
 2023-10-16,Friendly,Kenya,Russia,2.0,2.0,True
-2023-10-16,Friendly,China PR,Uzbekistan,1.0,2.0,False
+2023-10-16,Friendly,China,Uzbekistan,1.0,2.0,False
 2023-10-16,Friendly,Mozambique,Nigeria,2.0,3.0,True
 2023-10-16,Friendly,Senegal,Cameroon,1.0,0.0,True
 2023-10-16,UEFA Euro qualification,Gibraltar,Republic of Ireland,0.0,4.0,True
@@ -7215,7 +7218,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2023-11-16,FIFA World Cup qualification,Kuwait,India,0.0,1.0,False
 2023-11-16,FIFA World Cup qualification,Japan,Myanmar,5.0,0.0,False
 2023-11-16,FIFA World Cup qualification,Syria,North Korea,1.0,0.0,True
-2023-11-16,FIFA World Cup qualification,Thailand,China PR,1.0,2.0,False
+2023-11-16,FIFA World Cup qualification,Thailand,China,1.0,2.0,False
 2023-11-16,FIFA World Cup qualification,South Korea,Singapore,5.0,0.0,False
 2023-11-16,FIFA World Cup qualification,Oman,Taiwan,3.0,0.0,False
 2023-11-16,FIFA World Cup qualification,Malaysia,Kyrgyzstan,4.0,3.0,False
@@ -7346,7 +7349,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2023-11-21,FIFA World Cup qualification,Afghanistan,Kuwait,0.0,4.0,True
 2023-11-21,FIFA World Cup qualification,Myanmar,North Korea,1.0,6.0,False
 2023-11-21,FIFA World Cup qualification,Syria,Japan,0.0,5.0,True
-2023-11-21,FIFA World Cup qualification,China PR,South Korea,0.0,3.0,False
+2023-11-21,FIFA World Cup qualification,China,South Korea,0.0,3.0,False
 2023-11-21,FIFA World Cup qualification,Singapore,Thailand,1.0,3.0,False
 2023-11-21,FIFA World Cup qualification,Taiwan,Malaysia,0.0,1.0,False
 2023-11-21,FIFA World Cup qualification,Kyrgyzstan,Oman,1.0,0.0,False
@@ -7405,7 +7408,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2023-12-02,Pacific Games,Solomon Islands,New Caledonia,2.0,2.0,False
 2023-12-16,Friendly,Mexico,Colombia,2.0,3.0,True
 2024-01-01,Friendly,Japan,Thailand,5.0,0.0,False
-2024-01-01,Friendly,China PR,Hong Kong,1.0,2.0,True
+2024-01-01,Friendly,China,Hong Kong,1.0,2.0,True
 2024-01-02,Friendly,Indonesia,Libya,0.0,4.0,True
 2024-01-04,Friendly,Tajikistan,Hong Kong,2.0,1.0,True
 2024-01-04,Friendly,Saudi Arabia,Lebanon,1.0,0.0,True
@@ -7445,7 +7448,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2024-01-12,AFC Asian Cup,Qatar,Lebanon,3.0,0.0,False
 2024-01-12,Friendly,Kuwait,Libya,1.0,3.0,True
 2024-01-12,Friendly,Sweden,Estonia,2.0,1.0,True
-2024-01-13,AFC Asian Cup,China PR,Tajikistan,0.0,0.0,True
+2024-01-13,AFC Asian Cup,China,Tajikistan,0.0,0.0,True
 2024-01-13,AFC Asian Cup,Australia,India,2.0,0.0,True
 2024-01-13,AFC Asian Cup,Uzbekistan,Syria,0.0,0.0,True
 2024-01-13,African Cup of Nations,Ivory Coast,Guinea-Bissau,2.0,0.0,False
@@ -7467,7 +7470,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2024-01-16,African Cup of Nations,Burkina Faso,Mauritania,1.0,0.0,True
 2024-01-16,African Cup of Nations,Tunisia,Namibia,0.0,1.0,True
 2024-01-16,African Cup of Nations,Mali,South Africa,2.0,0.0,True
-2024-01-17,AFC Asian Cup,Lebanon,China PR,0.0,0.0,True
+2024-01-17,AFC Asian Cup,Lebanon,China,0.0,0.0,True
 2024-01-17,AFC Asian Cup,Qatar,Tajikistan,1.0,0.0,False
 2024-01-17,African Cup of Nations,Morocco,Tanzania,3.0,0.0,True
 2024-01-17,African Cup of Nations,DR Congo,Zambia,1.0,1.0,True
@@ -7496,7 +7499,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2024-01-21,African Cup of Nations,South Africa,Namibia,4.0,0.0,True
 2024-01-21,African Cup of Nations,Morocco,DR Congo,1.0,1.0,True
 2024-01-21,African Cup of Nations,Zambia,Tanzania,1.0,1.0,True
-2024-01-22,AFC Asian Cup,Qatar,China PR,1.0,0.0,False
+2024-01-22,AFC Asian Cup,Qatar,China,1.0,0.0,False
 2024-01-22,AFC Asian Cup,Tajikistan,Lebanon,2.0,1.0,True
 2024-01-22,African Cup of Nations,Guinea-Bissau,Nigeria,0.0,1.0,True
 2024-01-22,African Cup of Nations,Ivory Coast,Equatorial Guinea,0.0,4.0,False
@@ -7578,7 +7581,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2024-03-21,FIFA World Cup qualification,Myanmar,Syria,1.0,1.0,False
 2024-03-21,FIFA World Cup qualification,Japan,North Korea,1.0,0.0,False
 2024-03-21,FIFA World Cup qualification,South Korea,Thailand,1.0,1.0,False
-2024-03-21,FIFA World Cup qualification,Singapore,China PR,2.0,2.0,False
+2024-03-21,FIFA World Cup qualification,Singapore,China,2.0,2.0,False
 2024-03-21,FIFA World Cup qualification,Taiwan,Kyrgyzstan,0.0,2.0,False
 2024-03-21,FIFA World Cup qualification,Oman,Malaysia,2.0,0.0,False
 2024-03-21,FIFA World Cup qualification,Iran,Turkmenistan,5.0,0.0,False
@@ -7674,7 +7677,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2024-03-26,FIFA World Cup qualification,Kuwait,Qatar,1.0,2.0,False
 2024-03-26,FIFA World Cup qualification,Syria,Myanmar,7.0,0.0,True
 2024-03-26,FIFA World Cup qualification,Thailand,South Korea,0.0,3.0,False
-2024-03-26,FIFA World Cup qualification,China PR,Singapore,4.0,1.0,False
+2024-03-26,FIFA World Cup qualification,China,Singapore,4.0,1.0,False
 2024-03-26,FIFA World Cup qualification,Kyrgyzstan,Taiwan,5.0,1.0,False
 2024-03-26,FIFA World Cup qualification,Malaysia,Oman,0.0,2.0,False
 2024-03-26,FIFA World Cup qualification,Uzbekistan,Hong Kong,3.0,0.0,False
@@ -7723,6 +7726,8 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2024-04-16,Friendly,Trinidad and Tobago,Guyana,2.0,0.0,False
 2024-04-26,Friendly,Grenada,Saint Vincent and the Grenadines,0.0,3.0,False
 2024-04-26,Friendly,Guatemala,Nicaragua,1.0,1.0,True
+2024-05-21,Friendly,Galicia,Panama,0.0,2.0,False
+2024-05-21,Friendly,Basque Country,Uruguay,1.0,1.0,False
 2024-05-31,Friendly,Bolivia,Mexico,0.0,1.0,True
 2024-05-31,Friendly,Costa Rica,Uruguay,0.0,0.0,False
 2024-06-01,Friendly,Greenland,Turkmenistan,0.0,5.0,True
@@ -7772,7 +7777,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2024-06-06,FIFA World Cup qualification,India,Kuwait,0.0,0.0,False
 2024-06-06,FIFA World Cup qualification,Myanmar,Japan,0.0,5.0,False
 2024-06-06,FIFA World Cup qualification,North Korea,Syria,1.0,0.0,True
-2024-06-06,FIFA World Cup qualification,China PR,Thailand,1.0,1.0,False
+2024-06-06,FIFA World Cup qualification,China,Thailand,1.0,1.0,False
 2024-06-06,FIFA World Cup qualification,Singapore,South Korea,0.0,7.0,False
 2024-06-06,FIFA World Cup qualification,Taiwan,Oman,0.0,3.0,False
 2024-06-06,FIFA World Cup qualification,Kyrgyzstan,Malaysia,1.0,1.0,False
@@ -7891,7 +7896,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2024-06-11,FIFA World Cup qualification,Japan,Syria,5.0,0.0,False
 2024-06-11,FIFA World Cup qualification,North Korea,Myanmar,4.0,1.0,True
 2024-06-11,FIFA World Cup qualification,Thailand,Singapore,3.0,1.0,False
-2024-06-11,FIFA World Cup qualification,South Korea,China PR,1.0,0.0,False
+2024-06-11,FIFA World Cup qualification,South Korea,China,1.0,0.0,False
 2024-06-11,FIFA World Cup qualification,Oman,Kyrgyzstan,1.0,1.0,False
 2024-06-11,FIFA World Cup qualification,Malaysia,Taiwan,3.0,1.0,False
 2024-06-11,FIFA World Cup qualification,Turkmenistan,Hong Kong,0.0,0.0,False
@@ -8064,7 +8069,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2024-09-05,FIFA World Cup qualification,Iraq,Oman,1.0,0.0,False
 2024-09-05,FIFA World Cup qualification,South Korea,Palestine,0.0,0.0,False
 2024-09-05,FIFA World Cup qualification,Jordan,Kuwait,1.0,1.0,False
-2024-09-05,FIFA World Cup qualification,Japan,China PR,7.0,0.0,False
+2024-09-05,FIFA World Cup qualification,Japan,China,7.0,0.0,False
 2024-09-05,FIFA World Cup qualification,Australia,Bahrain,0.0,1.0,False
 2024-09-05,FIFA World Cup qualification,Saudi Arabia,Indonesia,1.0,1.0,False
 2024-09-06,Intercontinental Cup,Syria,Mauritius,2.0,0.0,True
@@ -8209,7 +8214,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2024-09-10,FIFA World Cup qualification,Palestine,Jordan,1.0,3.0,True
 2024-09-10,FIFA World Cup qualification,Bahrain,Japan,0.0,5.0,False
 2024-09-10,FIFA World Cup qualification,Indonesia,Australia,0.0,0.0,False
-2024-09-10,FIFA World Cup qualification,China PR,Saudi Arabia,1.0,2.0,False
+2024-09-10,FIFA World Cup qualification,China,Saudi Arabia,1.0,2.0,False
 2024-09-10,African Cup of Nations qualification,Zimbabwe,Cameroon,0.0,0.0,True
 2024-10-08,ASEAN Championship qualification,Brunei,Timor-Leste,0.0,1.0,False
 2024-10-09,CONCACAF Nations League,Barbados,United States Virgin Islands,5.0,0.0,False
@@ -8251,7 +8256,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2024-10-10,FIFA World Cup qualification,Oman,Kuwait,4.0,0.0,False
 2024-10-10,FIFA World Cup qualification,Iraq,Palestine,1.0,0.0,False
 2024-10-10,FIFA World Cup qualification,Bahrain,Indonesia,2.0,2.0,False
-2024-10-10,FIFA World Cup qualification,Australia,China PR,3.0,1.0,False
+2024-10-10,FIFA World Cup qualification,Australia,China,3.0,1.0,False
 2024-10-10,FIFA World Cup qualification,Saudi Arabia,Japan,0.0,2.0,False
 2024-10-11,Friendly,Cambodia,Taiwan,3.0,2.0,False
 2024-10-11,African Cup of Nations qualification,Madagascar,Gambia,1.0,1.0,True
@@ -8393,7 +8398,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2024-10-15,FIFA World Cup qualification,Palestine,Kuwait,2.0,2.0,True
 2024-10-15,FIFA World Cup qualification,South Korea,Iraq,3.0,2.0,False
 2024-10-15,FIFA World Cup qualification,Japan,Australia,1.0,1.0,False
-2024-10-15,FIFA World Cup qualification,China PR,Indonesia,2.0,1.0,False
+2024-10-15,FIFA World Cup qualification,China,Indonesia,2.0,1.0,False
 2024-10-15,FIFA World Cup qualification,Saudi Arabia,Bahrain,0.0,0.0,False
 2024-10-15,ASEAN Championship qualification,Timor-Leste,Brunei,0.0,0.0,True
 2024-11-13,Friendly,Bangladesh,Maldives,0.0,1.0,False
@@ -8431,7 +8436,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2024-11-14,FIFA World Cup qualification,Kuwait,South Korea,1.0,3.0,False
 2024-11-14,FIFA World Cup qualification,Iraq,Jordan,0.0,0.0,False
 2024-11-14,FIFA World Cup qualification,Oman,Palestine,1.0,0.0,False
-2024-11-14,FIFA World Cup qualification,Bahrain,China PR,0.0,1.0,False
+2024-11-14,FIFA World Cup qualification,Bahrain,China,0.0,1.0,False
 2024-11-14,FIFA World Cup qualification,Australia,Saudi Arabia,0.0,0.0,False
 2024-11-14,African Cup of Nations qualification,Madagascar,Tunisia,2.0,3.0,True
 2024-11-14,African Cup of Nations qualification,Lesotho,Central African Republic,1.0,0.0,True
@@ -8570,7 +8575,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2024-11-19,FIFA World Cup qualification,Kuwait,Jordan,1.0,1.0,False
 2024-11-19,FIFA World Cup qualification,Bahrain,Australia,2.0,2.0,False
 2024-11-19,FIFA World Cup qualification,Indonesia,Saudi Arabia,2.0,0.0,False
-2024-11-19,FIFA World Cup qualification,China PR,Japan,1.0,3.0,False
+2024-11-19,FIFA World Cup qualification,China,Japan,1.0,3.0,False
 2024-11-19,African Cup of Nations qualification,Egypt,Botswana,1.0,1.0,False
 2024-11-19,African Cup of Nations qualification,Mauritania,Cape Verde,1.0,0.0,False
 2024-11-19,African Cup of Nations qualification,Ivory Coast,Chad,4.0,0.0,False
@@ -8689,7 +8694,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2025-03-20,FIFA World Cup qualification,Jordan,Palestine,3.0,1.0,False
 2025-03-20,FIFA World Cup qualification,Japan,Bahrain,2.0,0.0,False
 2025-03-20,FIFA World Cup qualification,Australia,Indonesia,5.0,1.0,False
-2025-03-20,FIFA World Cup qualification,Saudi Arabia,China PR,1.0,0.0,False
+2025-03-20,FIFA World Cup qualification,Saudi Arabia,China,1.0,0.0,False
 2025-03-20,FIFA World Cup qualification,Sierra Leone,Guinea-Bissau,3.0,1.0,True
 2025-03-20,FIFA World Cup qualification,Zimbabwe,Benin,2.0,2.0,True
 2025-03-20,FIFA World Cup qualification,Cape Verde,Mauritius,1.0,0.0,False
@@ -8699,7 +8704,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2025-03-20,FIFA World Cup qualification,Mozambique,Uganda,3.0,1.0,True
 2025-03-20,FIFA World Cup qualification,Malawi,Namibia,0.0,1.0,False
 2025-03-20,FIFA World Cup qualification,Comoros,Mali,0.0,3.0,True
-2025-03-20,Friendly,Lebanon,Timor-Leste,4.0,0.0,False
+2025-03-20,Friendly,Lebanon,Timor-Leste,4.0,0.0,True
 2025-03-21,Gold Cup qualification,Belize,Costa Rica,0.0,7.0,False
 2025-03-21,Gold Cup qualification,Guyana,Guatemala,3.0,2.0,True
 2025-03-21,Gold Cup qualification,Bermuda,Honduras,3.0,5.0,False
@@ -8810,7 +8815,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2025-03-25,FIFA World Cup qualification,South Korea,Jordan,1.0,1.0,False
 2025-03-25,FIFA World Cup qualification,Kuwait,Oman,0.0,1.0,False
 2025-03-25,FIFA World Cup qualification,Palestine,Iraq,2.0,1.0,True
-2025-03-25,FIFA World Cup qualification,China PR,Australia,0.0,2.0,False
+2025-03-25,FIFA World Cup qualification,China,Australia,0.0,2.0,False
 2025-03-25,FIFA World Cup qualification,Japan,Saudi Arabia,0.0,0.0,False
 2025-03-25,FIFA World Cup qualification,Indonesia,Bahrain,1.0,0.0,False
 2025-03-25,FIFA World Cup qualification,Egypt,Sierra Leone,1.0,0.0,False
@@ -8880,7 +8885,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2025-06-05,FIFA World Cup qualification,Kuwait,Palestine,0.0,2.0,False
 2025-06-05,FIFA World Cup qualification,Bahrain,Saudi Arabia,0.0,2.0,False
 2025-06-05,FIFA World Cup qualification,Australia,Japan,1.0,0.0,False
-2025-06-05,FIFA World Cup qualification,Indonesia,China PR,1.0,0.0,False
+2025-06-05,FIFA World Cup qualification,Indonesia,China,1.0,0.0,False
 2025-06-05,Friendly,Sri Lanka,Brunei,1.0,0.0,True
 2025-06-06,Friendly,Bulgaria,Cyprus,2.0,2.0,False
 2025-06-06,Friendly,Burundi,Guinea-Bissau,1.0,0.0,True
@@ -8988,7 +8993,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2025-06-10,FIFA World Cup qualification,South Korea,Kuwait,4.0,0.0,False
 2025-06-10,FIFA World Cup qualification,Jordan,Iraq,0.0,1.0,False
 2025-06-10,FIFA World Cup qualification,Palestine,Oman,1.0,1.0,True
-2025-06-10,FIFA World Cup qualification,China PR,Bahrain,1.0,0.0,False
+2025-06-10,FIFA World Cup qualification,China,Bahrain,1.0,0.0,False
 2025-06-10,FIFA World Cup qualification,Japan,Indonesia,6.0,0.0,False
 2025-06-10,FIFA World Cup qualification,Saudi Arabia,Australia,1.0,2.0,False
 2025-06-10,FIFA World Cup qualification,Netherlands,Malta,8.0,0.0,False
@@ -9040,8 +9045,12 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2025-06-28,Gold Cup,Mexico,Saudi Arabia,2.0,0.0,True
 2025-06-29,Gold Cup,Canada,Guatemala,1.0,1.0,True
 2025-06-29,Gold Cup,United States,Costa Rica,2.0,2.0,False
+2025-07-01,CONIFA Asia Cup,Tamil Eelam,Tibet,4.0,0.0,True
 2025-07-02,Gold Cup,United States,Guatemala,2.0,1.0,False
 2025-07-02,Gold Cup,Mexico,Honduras,1.0,0.0,True
+2025-07-02,CONIFA Asia Cup,Tamil Eelam,East Turkestan,2.0,1.0,True
+2025-07-03,CONIFA Asia Cup,Tibet,East Turkestan,4.0,6.0,True
+2025-07-04,CONIFA Asia Cup,Tamil Eelam,East Turkestan,5.0,0.0,True
 2025-07-06,Gold Cup,United States,Mexico,1.0,2.0,False
 2025-07-13,Island Games,Hitra,Isle of Man,2.0,7.0,True
 2025-07-13,Island Games,Orkney,Frøya,3.0,0.0,False
@@ -9477,6 +9486,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2025-11-15,CONCACAF Series,Guyana,Bonaire,2.0,1.0,True
 2025-11-15,CONCACAF Series,Bahamas,British Virgin Islands,0.0,6.0,True
 2025-11-15,CONCACAF Series,Cayman Islands,Anguilla,4.0,0.0,False
+2025-11-15,Friendly,Basque Country,Palestine,3.0,0.0,False
 2025-11-16,FIFA World Cup qualification,Nigeria,DR Congo,1.0,1.0,True
 2025-11-16,FIFA World Cup qualification,Ukraine,Iceland,2.0,0.0,True
 2025-11-16,FIFA World Cup qualification,Azerbaijan,France,1.0,3.0,False
@@ -9650,7 +9660,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2026-01-18,Friendly,Grenada,Jamaica,0.0,1.0,False
 2026-01-22,Friendly,Panama,Mexico,0.0,1.0,False
 2026-01-25,Friendly,Bolivia,Mexico,0.0,1.0,False
-2026-01-26,Friendly,Uzbekistan,China PR,2.0,2.0,True
+2026-01-26,Friendly,Uzbekistan,China,2.0,2.0,True
 2026-02-25,Friendly,Mexico,Iceland,4.0,0.0,False
 2026-03-15,Friendly,Bolivia,Trinidad and Tobago,3.0,0.0,False
 2026-03-25,Friendly,Bermuda,DR Congo,0.0,2.0,True
@@ -9700,7 +9710,7 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2026-03-27,Friendly,Switzerland,Germany,3.0,4.0,False
 2026-03-27,Friendly,Costa Rica,Jordan,2.0,2.0,True
 2026-03-27,Friendly,Iran,Nigeria,1.0,2.0,True
-2026-03-27,FIFA Series,China PR,Curaçao,2.0,0.0,True
+2026-03-27,FIFA Series,China,Curaçao,2.0,0.0,True
 2026-03-27,FIFA Series,Australia,Cameroon,1.0,0.0,False
 2026-03-27,FIFA Series,Azerbaijan,Saint Lucia,6.0,1.0,False
 2026-03-27,FIFA Series,Solomon Islands,Bulgaria,2.0,10.0,True
@@ -9792,6 +9802,152 @@ date,tournament,home_team,away_team,home_score,away_score,neutral
 2026-03-31,FIFA World Cup qualification,Sweden,Poland,3.0,2.0,False
 2026-03-31,FIFA World Cup qualification,Kosovo,Turkey,0.0,1.0,False
 2026-03-31,FIFA World Cup qualification,Czech Republic,Denmark,2.0,2.0,False
-2026-03-31,FIFA Series,Cameroon,China PR,2.0,0.0,True
+2026-03-31,FIFA Series,Cameroon,China,2.0,0.0,True
 2026-03-31,FIFA Series,Australia,Curaçao,5.0,1.0,False
 2026-03-31,FIFA Series,Kazakhstan,Comoros,1.0,0.0,False
+2026-05-16,Friendly,Republic of Ireland,Grenada,5.0,0.0,True
+2026-05-22,Friendly,Mexico,Ghana,2.0,0.0,False
+2026-05-26,Friendly,Morocco,Burundi,5.0,0.0,False
+2026-05-26,Unity Cup,Nigeria,Zimbabwe,2.0,0.0,True
+2026-05-27,Unity Cup,India,Jamaica,0.0,2.0,True
+2026-05-28,Friendly,Republic of Ireland,Qatar,1.0,0.0,False
+2026-05-28,Friendly,Egypt,Russia,1.0,0.0,False
+2026-05-29,Friendly,Andorra,Iraq,0.0,1.0,True
+2026-05-29,Friendly,Bosnia and Herzegovina,North Macedonia,0.0,0.0,False
+2026-05-29,Friendly,Iran,Gambia,3.0,1.0,True
+2026-05-29,Friendly,South Africa,Nicaragua,0.0,0.0,False
+2026-05-30,Friendly,Ecuador,Saudi Arabia,2.0,1.0,True
+2026-05-30,Friendly,South Korea,Trinidad and Tobago,5.0,0.0,True
+2026-05-30,Friendly,Mexico,Australia,1.0,0.0,True
+2026-05-30,Friendly,Scotland,Curaçao,4.0,1.0,False
+2026-05-30,Unity Cup,Zimbabwe,India,1.0,0.0,True
+2026-05-30,Unity Cup,Nigeria,Jamaica,3.0,0.0,True
+2026-05-31,Friendly,Brazil,Panama,6.0,2.0,False
+2026-05-31,Friendly,Cape Verde,Serbia,3.0,0.0,True
+2026-05-31,Friendly,Czech Republic,Kosovo,2.0,1.0,False
+2026-05-31,Friendly,Germany,Finland,4.0,0.0,False
+2026-05-31,Friendly,Poland,Ukraine,0.0,2.0,False
+2026-05-31,Friendly,Singapore,Mongolia,4.0,0.0,False
+2026-05-31,Friendly,Switzerland,Jordan,4.0,1.0,False
+2026-05-31,Friendly,United States,Senegal,3.0,2.0,False
+2026-05-31,Friendly,Japan,Iceland,1.0,0.0,False
+2026-06-01,Friendly,Austria,Tunisia,1.0,0.0,False
+2026-06-01,Friendly,Bulgaria,Montenegro,0.0,1.0,False
+2026-06-01,Friendly,Canada,Uzbekistan,2.0,0.0,False
+2026-06-01,Friendly,Colombia,Costa Rica,3.0,1.0,False
+2026-06-01,Friendly,Norway,Sweden,3.0,1.0,False
+2026-06-01,Friendly,Slovakia,Malta,2.0,1.0,False
+2026-06-01,Friendly,Turkey,North Macedonia,4.0,0.0,False
+2026-06-01,Diamond Jubilee International Football Tournament,Maldives,Afghanistan,0.0,1.0,False
+2026-06-02,Friendly,Croatia,Belgium,0.0,2.0,False
+2026-06-02,Friendly,Georgia,Romania,1.0,1.0,False
+2026-06-02,Friendly,Haiti,New Zealand,4.0,0.0,True
+2026-06-02,Friendly,Morocco,Madagascar,4.0,0.0,False
+2026-06-02,Friendly,Wales,Ghana,1.0,1.0,False
+2026-06-03,Friendly,Albania,Israel,0.0,1.0,False
+2026-06-03,Friendly,DR Congo,Denmark,0.0,0.0,True
+2026-06-03,Friendly,Gibraltar,British Virgin Islands,4.0,0.0,False
+2026-06-03,Friendly,South Korea,El Salvador,1.0,0.0,True
+2026-06-03,Friendly,Luxembourg,Italy,0.0,1.0,False
+2026-06-03,Friendly,Netherlands,Algeria,0.0,1.0,False
+2026-06-03,Friendly,Panama,Dominican Republic,4.0,2.0,False
+2026-06-03,Friendly,Poland,Nigeria,2.0,2.0,False
+2026-06-03,Friendly,Philippines,Guam,5.0,1.0,False
+2026-06-01,Diamond Jubilee International Football Tournament,Maldives,Pakistan,0.0,3.0,False
+2026-06-04,Friendly,Andorra,Liechtenstein,2.0,0.0,False
+2026-06-04,Friendly,Cambodia,Bhutan,4.0,0.0,False
+2026-06-04,Friendly,France,Ivory Coast,1.0,2.0,False
+2026-06-04,Friendly,Guatemala,Czech Republic,1.0,5.0,True
+2026-06-04,Friendly,Iran,Mali,2.0,0.0,True
+2026-06-04,Friendly,Lesotho,Kenya,1.0,1.0,True
+2026-06-04,Friendly,Mexico,Serbia,5.0,1.0,False
+2026-06-04,Friendly,Northern Ireland,Guinea,1.0,0.0,True
+2026-06-04,Friendly,Slovenia,Cyprus,1.0,1.0,False
+2026-06-04,Friendly,Spain,Iraq,1.0,1.0,False
+2026-06-04,Friendly,Sweden,Greece,2.0,2.0,False
+2026-06-05,Friendly,Angola,Mauritania,1.0,1.0,True
+2026-06-05,Friendly,Azerbaijan,Malta,0.0,2.0,True
+2026-06-05,Friendly,Belarus,Syria,4.0,1.0,False
+2026-06-05,Friendly,Canada,Republic of Ireland,1.0,1.0,False
+2026-06-05,Friendly,Georgia,Bahrain,2.0,0.0,False
+2026-06-05,Friendly,Haiti,Peru,1.0,2.0,True
+2026-06-05,Friendly,Hong Kong,Mongolia,2.0,0.0,False
+2026-06-05,Friendly,Hungary,Finland,2.0,1.0,False
+2026-06-05,Friendly,Indonesia,Oman,3.0,0.0,False
+2026-06-05,Friendly,Moldova,Bulgaria,2.0,2.0,False
+2026-06-05,Friendly,Paraguay,Nicaragua,4.0,0.0,False
+2026-06-05,Friendly,San Marino,Bangladesh,1.0,2.0,False
+2026-06-05,Friendly,Singapore,China,1.0,2.0,False
+2026-06-05,Friendly,Slovakia,Montenegro,2.0,2.0,False
+2026-06-05,Friendly,Tajikistan,India,3.0,1.0,False
+2026-06-05,Friendly,Thailand,Kuwait,2.0,2.0,False
+2026-06-05,Friendly,Russia,Burkina Faso,3.0,0.0,False
+2026-06-05,Friendly,Benin,Niger,1.0,1.0,True
+2026-06-05,Friendly,Central African Republic,Togo,1.0,1.0,True
+2026-06-05,Friendly,Puerto Rico,Saudi Arabia,0.0,3.0,True
+2026-06-06,Friendly,Vanuatu,Fiji,2.0,1.0,False
+2026-06-06,Friendly,Albania,Luxembourg,0.0,1.0,False
+2026-06-06,Friendly,Argentina,Honduras,2.0,0.0,True
+2026-06-06,Friendly,Armenia,Kazakhstan,1.0,1.0,False
+2026-06-06,Friendly,Australia,Switzerland,1.0,1.0,True
+2026-06-06,Friendly,Belgium,Tunisia,5.0,0.0,False
+2026-06-06,Friendly,Bermuda,Cape Verde,3.0,0.0,True
+2026-06-06,Friendly,Bolivia,Scotland,0.0,4.0,True
+2026-06-06,Friendly,Brazil,Egypt,2.0,1.0,True
+2026-06-06,Friendly,Curaçao,Aruba,4.0,0.0,False
+2026-06-06,Friendly,England,New Zealand,1.0,0.0,True
+2026-06-06,Friendly,Sierra Leone,Liberia,1.0,0.0,False
+2026-06-06,Friendly,Ethiopia,Malawi,1.0,0.0,False
+2026-06-06,Friendly,Gibraltar,Cayman Islands,4.0,1.0,False
+2026-06-06,Friendly,Jamaica,South Africa,0.0,1.0,True
+2026-06-06,Friendly,Kyrgyzstan,Palestine,0.0,0.0,False
+2026-06-06,Friendly,Panama,Bosnia and Herzegovina,1.0,1.0,True
+2026-06-06,Friendly,Portugal,Chile,2.0,1.0,False
+2026-06-06,Friendly,Qatar,El Salvador,0.0,0.0,True
+2026-06-06,Friendly,Romania,Wales,2.0,1.0,False
+2026-06-06,Friendly,United States,Germany,1.0,2.0,False
+2026-06-06,Friendly,British Virgin Islands,Bonaire,2.0,0.0,True
+2026-06-06,Friendly,Gibraltar,Cayman Islands,4.0,1.0,False
+2026-06-06,Friendly,Venezuela,Turkey,1.0,2.0,True
+2026-06-06,Tri-Nations Cup,Myanmar,Guam,6.0,1.0,True
+2026-06-06,Baltic Cup,Lithuania,Latvia,1.0,1.0,False
+2026-06-06,Baltic Cup,Estonia,Faroe Islands,1.0,0.0,False
+2026-06-07,Diamond Jubilee International Football Tournament,Afghanistan,Pakistan,0.0,2.0,True
+2026-06-07,Friendly,Croatia,Slovenia,2.0,1.0,False
+2026-06-07,Friendly,Ecuador,Guatemala,3.0,0.0,True
+2026-06-07,Friendly,Greece,Italy,0.0,1.0,False
+2026-06-07,Friendly,Jordan,Colombia,0.0,2.0,True
+2026-06-07,Friendly,Kosovo,Andorra,3.0,0.0,False
+2026-06-07,Friendly,Liechtenstein,Cyprus,0.0,2.0,False
+2026-06-07,Friendly,Morocco,Norway,1.0,1.0,True
+2026-06-07,Friendly,Denmark,Ukraine,2.0,1.0,False
+2026-06-08,Friendly,France,Northern Ireland,3.0,1.0,False
+2026-06-08,Friendly,Netherlands,Uzbekistan,2.0,1.0,True
+2026-06-08,Friendly,Peru,Spain,1.0,3.0,True
+2026-06-08,Friendly,Mauritania,Niger,1.0,0.0,True
+2026-06-09,Friendly,Angola,Central African Republic,3.0,0.0,True
+2026-06-09,Friendly,Argentina,Iceland,3.0,0.0,True
+2026-06-09,Friendly,Armenia,Moldova,1.0,1.0,False
+2026-06-09,Friendly,Azerbaijan,San Marino,2.0,1.0,True
+2026-06-09,Friendly,Belarus,Burkina Faso,2.0,2.0,False
+2026-06-09,Friendly,Cambodia,Hong Kong,2.0,0.0,False
+2026-06-09,Friendly,China,Thailand,0.0,0.0,False
+2026-06-09,Friendly,DR Congo,Chile,1.0,2.0,True
+2026-06-09,Friendly,Equatorial Guinea,Comoros,0.0,1.0,True
+2026-06-09,Friendly,Ethiopia,Malawi,1.0,1.0,False
+2026-06-09,Friendly,Hungary,Kazakhstan,3.0,1.0,False
+2026-06-09,Friendly,Indonesia,Mozambique,1.0,0.0,False
+2026-06-09,Friendly,Kyrgyzstan,Palestine,0.0,0.0,False
+2026-06-09,Friendly,Saudi Arabia,Senegal,0.0,0.0,True
+2026-06-09,Friendly,Tajikistan,India,1.0,1.0,False
+2026-06-09,Tri-Nations Cup,Philippines,Myanmar,5.0,1.0,False
+2026-06-09,Baltic Cup,Latvia,Faroe Islands,0.0,1.0,False
+2026-06-09,Baltic Cup,Estonia,Lithuania,1.0,0.0,False
+2026-06-09,Friendly,Russia,Trinidad and Tobago,3.0,0.0,False
+2026-06-09,Friendly,Togo,Benin,5.0,1.0,False
+2026-06-09,Friendly,Liberia,Sierra Leone,3.0,1.0,False
+2026-06-09,Friendly,Iraq,Venezuela,0.0,2.0,True
+2026-06-10,Friendly,Bolivia,Algeria,0.0,4.0,True
+2026-06-10,Friendly,England,Costa Rica,3.0,0.0,True
+2026-06-10,Friendly,Portugal,Nigeria,2.0,1.0,False
+2026-06-10,Diamond Jubilee International Football Tournament,Afghanistan,Pakistan,0.0,2.0,True
